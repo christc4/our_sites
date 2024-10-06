@@ -1,0 +1,59 @@
+#!/bin/rc
+fn cork {
+    sitedir=pariffin
+    req_path=`{echo -n $REQUEST_URI}
+    local_path=$sitedir$req_path
+    ifs='/' {args=`{echo -n $req_path}}
+    if (test -d $local_path) { local_path=$local_path^'index' }
+    cd $sitedir
+    req_paths_list='/'
+    conf_wd='/'
+    for (i in $args) {
+        conf_wd=$conf_wd^$i
+        req_paths_list=($req_paths_list $conf_wd)
+        conf_wd=$conf_wd'/'
+        cd $i
+    }
+    cd $cork_root
+    setup_handlers
+    echo
+    template
+}
+fn ll_add {
+    _l=$1^_^$#$1
+    $_l=$*(2-)
+    $1=( $$1 $_l )
+}
+fn sbar {
+    echo -n '<style>nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 20%}article{flex:1}nav{min-width:12em}nav ul{list-style:none}nav ul{border-bottom:1px solid;}img{width:150} body { font-family: 'Roboto Condensed', Arial; font-stretch: condensed; background-color: #141416; color: white } h1 { margin: 16px 0; padding: 9px; background-color: #870328; font-size: 25px; color: white; border-radius: 2px; text-align: centre; } h2, h3, h4, h5, h6 { padding: 8px; background-color: #921131; font-size: 19px; color: white; text-align: centre; position: relative; clip-path: polygon(0 0, 50% 0, calc(50% - 2.5em) 100%, 0 100%); } p { color: #C0C3D0; } a { text-decoration: none; color: #Ff6549; } a:hover { text-decoration: underline; color: white; }</style><nav><ul>'
+    ls -F $sitedir/./$req_paths_list | {
+        sed $dirfilter'/\/[^\/]*(\.(md)|\/)$/!d; s!^'$sitedir'!!; '$dirclean
+    } | sort -u |
+awk -F/ '
+    function p(x,y,s) {for(i=0;i<x-y;i++) printf s}
+    BEGIN { lNF = 2 }
+        {sub("/$", "", $0);
+        p(NF, lNF, "<li><ul>");
+        p(lNF, NF, "</ul>");
+        lNF = NF;
+        fp = $NF;
+        gsub(/[\-_]/, " ", fp);
+        pa = $0 "/";
+        if (index(ENVIRON["req_path"], pa) == 1)
+            printf "<li><a href=\%s\><b>%s</b></a>", $0, fp;
+        else
+            printf "<li><a href=\%s\>%s</a>", $0, fp; }
+    END { p(lNF, 2, "</ul>"); printf "</ul></nav>" }'}
+fn run_handlers {for (h in $*) {run_handler $$h}}
+fn run_handler {$*(1) $*(2-)}
+fn setup_handlers {body=(m2h $local_path.md)}
+fn template {
+    for (h in $bar) {run_handler $$h}
+    run_handler $body
+}
+dirfilter='s/\*$//; s,/+\./+,/,g; s,^\./,,;'
+dirclean='s/\.(md)$//;'
+path=(. /bin ./bin)
+ll_add bar sbar
+cork_root=`{pwd}
+cork

@@ -1,0 +1,9 @@
+#!/bin/sh
+
+directory="/var/www/werc/sites"
+
+cd "$directory" || exit 1
+
+git add . && git commit -m "New pages written" && git push -u origin main
+
+exit 0
