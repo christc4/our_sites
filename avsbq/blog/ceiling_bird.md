@@ -23,13 +23,13 @@ The sound of the chirp which warns from the core,
 For the lie whispers calm, while the flames seek the door,
 And woe shall awaken too late to implore
 
-I made a video on such [ceiling birds](https://youtube.com/shorts/bKbdi1G5Oh0?si=UHr-dlNCgKe6NF_M)
+I made a video on such [ceiling birds](https://youtube.com/shorts/bKbdi1G5Oh0?si=6o8axtzzPvCXRltj)
 
 Crappy poems aside, smoke detector beeping is a real issue.
 
-https://sahanjournal.com/health/sleep-science-black-insomnia-health-equity-minnesota/
+[sahan journal](//sahanjournal.com/health/sleep-science-black-insomnia-health-equity-minnesota/)
 
-https://www.cpsc.gov/Newsroom/News-Releases/2022/Learn-the-Sounds-of-Fire-Safety-to-Avoid-Danger-African-Americans-Have-the-Highest-Rate-of-Fire-Deaths-and-Injuries
+[cpsc](//www.cpsc.gov/Newsroom/News-Releases/2022/Learn-the-Sounds-of-Fire-Safety-to-Avoid-Danger-African-Americans-Have-the-Highest-Rate-of-Fire-Deaths-and-Injuries)
 
 <img src=pix/smoke_alarm_battery2.avif
 
