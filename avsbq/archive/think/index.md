@@ -67,3 +67,5 @@ You forget about a thousand things each day, make sure this is one of them
 Genetics load the gun but lifestyle pulls the trigger
 
 Turn knowledge into wisdowm, the unknown into the known
+
+The bigger your tent the more likely it'l collapse from within

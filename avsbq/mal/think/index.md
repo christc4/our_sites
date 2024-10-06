@@ -209,3 +209,13 @@ Sell me this pen, it's AI powered
 Listening to you is like buying hair growth tonic from a bald  man
 
 You have anger issues, no you make me angry. and thats the issue
+
+If I had a gun with two bullets and I was in a room with Epstein, Dahmer, and you, I would shoot you twice
+
+Don't sweat the petty things, and don't pet the sweaty things
+
+Build a man a fire and he'll be warm for a night... Set a man on fire and he'll be warm for the rest of his life
+
+What is today, but yesterday's tomorrow?
+
+How can feet smell if they don't have a nose?
