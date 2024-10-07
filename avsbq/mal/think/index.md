@@ -219,3 +219,5 @@ Build a man a fire and he'll be warm for a night... Set a man on fire and he'll 
 What is today, but yesterday's tomorrow?
 
 How can feet smell if they don't have a nose?
+
+No man should marry until he has studied anatomy and dissected at least one woman
