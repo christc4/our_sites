@@ -1,10 +1,10 @@
 # How to polish shoes
 
-<img src=".pix/shoe1.avif" style="max-width: 390px; height: auto;">
+<img src="pix/shoe1.avif" style="max-width: 390px; height: auto;">
 
 Excuse trousers, first day of Year 12
 
-<img src=".pix/shoe2.avif" style="max-width: 390px; height: auto;">
+<img src="pix/shoe2.avif" style="max-width: 390px; height: auto;">
 
 shoes that havent received polish in two years, even dropped once on floor, still shiny
 

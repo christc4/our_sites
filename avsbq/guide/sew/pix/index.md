@@ -1,0 +1,13 @@
+<img src=collar1.avif>
+<img src=collar10.avif>
+<img src=collar2.avif>
+<img src=collar3.avif>
+<img src=collar4.avif>
+<img src=collar5.avif>
+<img src=collar6.avif>
+<img src=collar7.avif>
+<img src=collar8.avif>
+<img src=collar9.avif>
+<img src=collar_back_button.avif>
+<img src=shoe1.avif>
+<img src=shoe2.avif>
