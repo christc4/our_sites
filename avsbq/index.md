@@ -1,5 +1,5 @@
-# http://95.179.238.202/
+# Home
 
-previously avsbq.org
+[searchbar, sitemap, updates](search.html)
 
 powered by [Cork](//github.com/christc4/cork)

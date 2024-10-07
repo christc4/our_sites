@@ -1,12 +1,10 @@
 # Functions
 
-*Last update: 2024/09/12*
+2024/10/07
 
 <details><summary>Sources used:</summary>
 [Bro Code](https://youtu.be/89cGQjB5R4M?si=EIjztJPrvIBNdDoB), [Xah Lee](http://xahlee.info/python/function_def.html), [Makers Academy, Intro-To-Python](https://github.com/makersacademy/intro-to-python/blob/main/011_identity.py)
 </details>
-
-<hr>
 
 Functions are reusable blocks of code. Think of them as little machines, taking inputs, processing them in some way and returing an output
 
@@ -17,8 +15,6 @@ Independent functions
 Method functions
 
     my_string.replace("h", "w")
-
-
 
 ## Happy Birthday
 
