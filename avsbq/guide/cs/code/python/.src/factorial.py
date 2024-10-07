@@ -1,9 +1,0 @@
-def FirstFactorial(num):
-    sum = 1
-    count = 1
-    while count <= num:
-        sum = sum * count
-        count += 1
-    print(sum)
-
-FirstFactorial(4)

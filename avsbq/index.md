@@ -2,6 +2,6 @@
 
 previously avsbq.org
 
-go here for [updates](updates.html)
+[updates](updates.html)
 
 powered by [Cork](//github.com/christc4/cork)
