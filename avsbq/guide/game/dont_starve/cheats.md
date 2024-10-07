@@ -84,7 +84,7 @@ For Example: Entering
 
 	c_sethunger(0.50)
 
-will set your hunger to 50%
+will set your hunger to 50 percent
 
 Set Health (UF)
 
