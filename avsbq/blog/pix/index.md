@@ -1,3 +1,4 @@
+  <marquee behavior="scroll" direction="left">
 <img src=50s_twerk.gif>
 <img src=a_1960s_east_end_childhood.avif>
 <img src=banana_peel.avif>
@@ -61,3 +62,4 @@
 <img src=xin_dog.avif>
 <img src=yt_boar.avif>
 <img src=ytfzf.gif>
+</marquee>
