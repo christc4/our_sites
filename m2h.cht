@@ -4,10 +4,7 @@ function oprint(t){ if(nr == 0) otext = otext t; else otext = otext t; }
 function subref(id){ for(; nr > 0 && sub("<<" id, ref[id], otext); nr--); if(nr == 0 && otext) otext = otext; }
 function nextil(t){ if(!match(t, /[<&\[*_\\-]|(\!\[)/)) return t; t1 = substr(t, 1, RSTART - 1); tag = substr(t, RSTART, RLENGTH); t2 = substr(t, RSTART + RLENGTH); if(ilcode && tag != "") return eschtml(t1 tag) nextil(t2); if(tag == "\\"){ if(match(t2, /^[\\*_{}\[\]()#+\-\.!]/)){ tag = substr(t2, 1, 1); t2 = substr(t2, 2); } return t1 tag nextil(t2); } if(tag == "-"){ if(sub(/^-/, "", t2)) tag = "&#8212;"; return t1 tag nextil(t2); } if(tag == "<"){ if(match(t2, /^[^ ]+[\.@][^ ]+>/)){ url = eschtml(substr(t2, 1, RLENGTH - 1)); t2 = substr(t2, RLENGTH + 1); linktext = url; return t1 "<a href=\"" url "\">" linktext "</a>" nextil(t2); } if(match(t2, /^[A-Za-z\/!][^>]*>/)){ tag = tag substr(t2, RSTART, RLENGTH); t2 = substr(t2, RLENGTH + 1); return t1 tag nextil(t2); } return t1 "&lt;" nextil(t2); } if(tag == "["){ if(!match(t2, /(\[.*\])|(\(.*\))/)) return t1 tag nextil(t2); match(t2, /^[^\]]*(\[[^\]]*\][^\]]*)*/); linktext = substr(t2, 1, RLENGTH); t2 = substr(t2, RLENGTH + 2); if(match(t2, /^\(/)){ match(t2, /^[^\)]+(\([^\)]+\)[^\)]*)*/); url = substr(t2, 2, RLENGTH - 1); pt2 = substr(t2, RLENGTH + 2); title = ""; if(match(url, /[ ]+\".*\"[ ]*$/)){ title = substr(url, RSTART, RLENGTH); url = substr(url, 1, RSTART - 1); match(title, /\".*\"/); title = " title=\"" substr(title, RSTART + 1, RLENGTH - 2) "\""; } if(match(url, /^<.*>$/)) url = substr(url, 2, RLENGTH - 2); url = eschtml(url); return t1 "<a href=\"" url "\"" title ">" nextil(linktext) "</a>" nextil(pt2); } } if(match(tag, /[*_]/)){ ntag = tag; if(sub("^" tag, "", t2)){ if(stag[ns] == tag && match(t2, "^" tag)) t2 = tag t2; else ntag = tag tag; } n = length(ntag); tag = (n == 2) ? "strong" : "em"; if(match(t1, / $/) && match(t2, /^ /)) return t1 tag nextil(t2); if(stag[ns] == ntag){ tag = "/" tag; ns--; } else stag[++ns] = ntag; tag = "<" tag ">"; return t1 tag nextil(t2); } }
 function inline(t){ ilcode = 0; ilcode2 = 0; ns = 0; return nextil(t); }
-# function printp(tag){ if(!match(text, /^[ ]*$/)){ text = inline(text); if(tag != "") oprint("<" tag ">" text "</" tag ">"); else oprint(text); } text = ""; }
-
-# Early return
-function printp(tag){if(match(text,/^[ ]*$/)){text="";return}text=inline(text);if(tag=="p"){oprint("<"tag">"text)}else{oprint("<"tag">"text"</"tag">")};text=""}
+function printp(tag){ if(!match(text, /^[ ]*$/)){ text = inline(text); if(tag != "") oprint("<" tag ">" text "</" tag ">"); else oprint(text); } text = ""; }
 
 # ELSE function printp(tag){if(!match(text,/^[ ]*$/)){text=inline(text);if(tag=="p"){oprint("<"tag">"text)}else{oprint("<"tag">"text"</"tag">")}}text=""}
 
@@ -168,4 +165,4 @@ END {
         oprint("</" block[nl] ">");
     }
     gsub(/\n/,"",otext);
-    oprint("<hr>Contact us with<br><br><img src=https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg style='width:16px;'> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png style='width:16px;'></article></html>"); printf(otext); }
+    oprint("<hr>You can contact us here<br><br><img src=https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg style='width:16px;'> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png style='width:16px;'></article></html>"); printf(otext); }
