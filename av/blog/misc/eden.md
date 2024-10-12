@@ -11,4 +11,3 @@ Math is a playground, God gave humans to keep us from being bored
 All art is applied mathematics, 
 
 Man-made gyms, server rooms, communes
-

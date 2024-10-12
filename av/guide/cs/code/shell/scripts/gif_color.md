@@ -11,6 +11,4 @@
 
 There are probably sites that can do the same thing, but probably cannot automate it, say you have a hundred gifs..
 
-<hr>
-
 <object data=".txt/batch_gif_background_color_removal.txt" width="584px" height="360px"></object>

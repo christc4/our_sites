@@ -8,13 +8,9 @@ dawn1000ATprotonmailDOTcom - use for time being Primary
 
 If the stars align we will meet in due time
 
-<hr>
-
 # My Store
 
 We close on Sundays 
-
-<hr>
 
 Currency: GBP, Pounds Sterling
 
@@ -33,8 +29,6 @@ Currency: GBP, Pounds Sterling
     - £10-25 (depend on detail), [my works](/icons/misc/personal/my_works)
 
 Email me 
-
-<hr>
 
 1 with two 0's is nice :)
 

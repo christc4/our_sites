@@ -8,8 +8,6 @@
 [Last Vegas Sun](https://lasvegassun.com/news/2015/oct/27/authorities-cryotherapy-spa-where-employee-died-ha/), [3 News](https://news3lv.com/news/local/clark-county-coroner-releases-cause-of-death-for-rejuvenice-cryotherapy-manager)
 </details>
 
-<hr>
-
 TODO
 
 The Clark County Coroner has determined that 24-year-old Chelsea Ake died from a lack of oxygen.
