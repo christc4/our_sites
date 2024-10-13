@@ -5,7 +5,7 @@
 *Last update: 2024/09/26*
 
 <details><summary>Reports used:</summary>
-[Last Vegas Sun](https://lasvegassun.com/news/2015/oct/27/authorities-cryotherapy-spa-where-employee-died-ha/), [3 News](https://news3lv.com/news/local/clark-county-coroner-releases-cause-of-death-for-rejuvenice-cryotherapy-manager)
+[Last Vegas Sun](//lasvegassun.com/news/2015/oct/27/authorities-cryotherapy-spa-where-employee-died-ha/), [3 News](//news3lv.com/news/local/clark-county-coroner-releases-cause-of-death-for-rejuvenice-cryotherapy-manager)
 </details>
 
 TODO
@@ -23,7 +23,7 @@ The Clark County Coroner said the official cause of death is asphyxia in an oxyg
 <img src=.pix/cas1.avif>
 <img src=.pix/cas2.avif>
 
-https://abcnews.go.com/US/salon-worker-died-cryotherapy-machine-shut/story?id=34775196
+//abcnews.go.com/US/salon-worker-died-cryotherapy-machine-shut/story?id=34775196
 
 A funeral service was held in Honolulu, HI
 
@@ -68,4 +68,4 @@ Ake said he was troubled by reports that his niece misused the cryotherapy chamb
 "Something went wrong," Ake said. "It's not operator error if she died within seconds."A
 
 
-img credit https://lasvegassun.com/staff/steve-marcus/
+img credit //lasvegassun.com/staff/steve-marcus/

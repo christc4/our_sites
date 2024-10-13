@@ -2,7 +2,7 @@
 
 <img src=pix/leather_kinesis.avif>
 
-From [re5et](https://www.reddit.com/user/re5et/)
+From [re5et](//www.reddit.com/user/re5et/)
 
 todo
 

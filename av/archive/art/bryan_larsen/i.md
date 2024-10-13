@@ -1,6 +1,6 @@
 # Bryan Lawsen
 
-[Personal site](https://www.bryanlarsen.com/)
+[Personal site](//bryanlarsen.com/)
 
 Triumph of Icarus
 
