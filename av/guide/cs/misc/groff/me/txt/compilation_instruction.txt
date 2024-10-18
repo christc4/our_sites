@@ -1,0 +1,2 @@
+$ groff -Tps -me example.me > example.ps
+$ ps2pdf example.ps example.pdf

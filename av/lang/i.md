@@ -4,4 +4,8 @@
 Donald J. Trump, @realDonaldTrump
 2017-05-31, 12:06 AM
 
-<script src="a.js" defer></script>
+### _h_
+
+- hyperbaton
+	- inversion of normal word order, especially for emphasis sake
+	- "This I must see"

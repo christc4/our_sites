@@ -1,8 +1,5 @@
 # Think
 
-![image](.pix/think_while_its_still_legal.avif)
-![image](.pix/chud_therapy.avif)
-
 <u>Names intentionally omitted</u>
 
 Everyone tells you that smoking will kill you. What they don't tell you is that it cures salmon
@@ -11,7 +8,7 @@ Want to get back on your own 2 feet? Miss two car payments
 
 Porch Pirates, Lost Treasures of The Amazon, A Netflix Documentary
 
-The di&amp;ldo of consequences rarely arrives lubed
+The dild. of consequences rarely arrives lubed
 
 Bug reports don't taste good in your mouth
 
@@ -39,7 +36,7 @@ Because democracy basically means government by the people, of the people, for t
 
 The elevator business has its ups and downs
 
-Have you ever heard a crackhead say they don&apos;t have enough money for crack? no. they still go out and get it. do the same with your dreams!
+Have you ever heard a crackhead say they don't have enough money for crack? no. they still go out and get it. do the same with your dreams!
 
 90 percent of gambling addicts quit right before they're about to hit it big
 
@@ -51,11 +48,11 @@ We don't need your origin story, we know you're a villain
 
 imagine u hit the gym and ur trying to build urself up only for purple aki not to feel ur muscles you'd be gutted
 
-During my interview today i poured some water into a cup and it overflowed a little bit. &ldquo;nervous?&rdquo; asked the interviewer. i simply replied, &ldquo;no i just always give 110&#37;&rdquo; &ndash; someone on twitter
+During my interview today i poured some water into a cup and it overflowed a little bit. "nervous?" asked the interviewer. i simply replied, "no i just always give 110 percent" - someone on twitter
 
 Flex tape can even patch your marriage back together
 
-Bunnies have lots of &dollar;&euro;&ast; and we still think they're cute and pure. let's treat &ast;&ast;&ast; the same way - rabbits also mate for life you vapid communal fleshl&ast;g&ast;t
+Bunnies have lots of xes and we still think they're cute and pure. let's treat xes the same way - rabbits also mate for life you vapid communal fleshthgil
 
 You looked for a gang but found a klan 
 
@@ -63,7 +60,7 @@ Fitness Protection Program
 
 "I'm a big fan of civil disobedience" - I'm using this one in my next interview.
 
-Enough about my &ast; past, let's talk about my &ast; future ;)
+Enough about my mal past, let's talk about my mal future ;)
 
 The riots were really like a biblical plague, where you'd have to paint a sign on your door that you belonged to a proteced class and pray the Angel of Death passes over you 
 

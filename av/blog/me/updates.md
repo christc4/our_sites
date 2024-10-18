@@ -2,13 +2,20 @@ My life, writing meaningless noise to a disk then fitting said noise to the many
 
 make https guide
 
-Started logging updates on **2024/10/06**
+Started logging updates on *2024/10/06*
+
+### 2024/10/17
+
+- [groff, latex](/guide/cs/misc/) - moved from dedicated deleted cs/typeset dir. to misc.
+- [icons](/archive/icons/) - moved to archive dir.
+- [home page](/) - added lil bio
+- [work.avsbq.org/cork](//work.avsbq.org/cork) - made cork page, only added src for now
 
 ### 2024/10/13
 
-- [harmful_software](/archive/cs/misc/harmful_software) - converted all html to md, table to svg
+- [harmful software](/archive/cs/misc/harmful_software) - converted all html to md, table to svg
 - renamed all index.md to i.md saving four bytes, removed html suppport in awk script
-- [shell/scripts/batch_file_rename](/guide/cs/code/shell/scripts/batch_file_rename) - added file rename shell one-liner
+- [shell/scripts/batch file rename](/guide/cs/code/shell/scripts/batch_file_rename) - added file rename shell one-liner
 - [archive/cs/device/kbd/misc/](/archive/cs/device/kbd/misc/) - moved big keys, tex shinobi, zergotech, fun to new misc. kbd section
 - [kbd/maltron](/archive/cs/device/kbd/maltron) - created dedicated maltron dir., moved files, added foto of 90s typist
 
@@ -23,10 +30,10 @@ Started logging updates on **2024/10/06**
 - [mal/fit](/mal/fit) - added 3 quotes and funny yt comment foto
 - [work.avsbq.org](//work.avsbq.org) - created 'professional' work related page
 - [kbd/design/split/history](/archive/cs/device/kbd/design/split/history) - added patent foto 
-- [design/grandfather_clock](/archive/cs/device/kbd/design/grandfather_clock) - added leather kinesis foto 
+- [design/grandfather clock](/archive/cs/device/kbd/design/grandfather_clock) - added leather kinesis foto 
 - [mal/cs/webdev/](/mal/cs/webdev) - added chromeVsf.fox pic 
 - [mal/think/](/mal/think) - added 'good morning' quote
-- [elton_john/im_still_standing](/archive/misc/music/elton_john/im_still_standing) - removed yt embed 
+- [elton john/im still standing](/archive/misc/music/elton_john/im_still_standing) - removed yt embed 
 
 ### 2024/10/10
 
@@ -48,7 +55,7 @@ Started logging updates on **2024/10/06**
 - [latex/cv](/guide/cs/typeset/latex/cv) - added [keying's](//keyi.ng) cv template
 - [archive/cs/misc/scsh](/archive/cs/misc/scsh) - moved to misc. dir., fixed formatting, spring cleaning done in cs land
 - [blog/misc/currency](/blog/misc/ceiling_bird) - moved to misc. dir.
-- [blog/misc/ceiling_bird](/blog/misc/ceiling_bird) - moved to misc. dir.
+- [blog/misc/ceiling bird](/blog/misc/ceiling_bird) - moved to misc. dir.
 - [blog/misc/x61s](/blog/misc/x61s) - moved to misc. dir
 - [device/mice/](/archive/cs/device/mice/) - spring cleaning, moving mouse stuff in one permanent folder
 - [device/mice/fun](/archive/cs/device/mice/fun) - moved mousetrap to newly created fun section

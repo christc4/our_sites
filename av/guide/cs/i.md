@@ -1,8 +1,8 @@
 # CS C(omputer) S(tuff)
 
-<img src=xah.avif>
+<img src=misc/pix/xah.avif>
 
-Diagram by [Xah Lee](http://xahlee.info)
+Diagram by [Xah Lee](/xahlee.info)
 
 ## Terms
 

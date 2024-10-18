@@ -1,4 +1,4 @@
-<script defer src="rain.js"></script>
+<script defer src=rain.js></script>
 
 # Who
 
