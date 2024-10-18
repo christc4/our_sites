@@ -4,6 +4,11 @@ make https guide
 
 Started logging updates on *2024/10/06*
 
+### 2024/10/18
+
+- [sitemap](/sitemap.html) - deleted old sitemap made with awk, now using `tree`
+- [blog/web/sitemap](/blog/web/sitemap_unix_tree) - created new and first blog/ dir. category, new post
+
 ### 2024/10/17
 
 - [groff, latex](/guide/cs/misc/) - moved from dedicated deleted cs/typeset dir. to misc.
