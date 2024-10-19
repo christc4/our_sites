@@ -12,4 +12,4 @@ My name is Christ Amlai, or Χρίστος.  I'm 20. I mainly blog about computi
 
 <hr>
 
-> powered by [cork](//work.avsbq.org/cork/)
+powered by [cork](//work.avsbq.org/cork/)

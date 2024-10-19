@@ -2,12 +2,8 @@
 
 2024/09/12
 
-<details><summary>Sources:</summary>
-[Wolfram](https://resources.wolframcloud.com/FunctionRepository/resources/Asymptotes/)
-</details>
+[Wolfram - FunctionRepository/resources/Asymptotes](//resources.wolframcloud.com/FunctionRepository/resources/Asymptotes/)
 
-<hr>
+<object data="src/asymptote.txt" width="500px" height="60px"></object>
 
-<object data=".txt/asymptote.txt" width="500px" height="60px"></object>
-
-<img src=".pix/asymptote1.svg" style="width:350px; height: auto;">
+<img src="pix/asymptote1.svg" style="width:350px; height: auto;">
