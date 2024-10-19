@@ -4,9 +4,15 @@ make https guide
 
 Started logging updates on *2024/10/06*
 
+### 2024/10/19
+
+- [blog/misc/](/blog/misc/) - added gorilla selfie stick foto
+- [cache/misc/a muslim is baptized/](/archive/misc/cache/misc/a_muslim_is_baptized/) - deleted all .webp, using .avif, created pix dir. and removed unicode char.
+
 ### 2024/10/18
 
-- [sitemap](/sitemap.html) - deleted old sitemap made with awk, now using `tree`
+- [mal/fit](/mal/fit) - added Goggins quotes
+- [sitemap](/blog/me/sitemap.html) - deleted old sitemap made with awk, now using `tree`
 - [blog/web/sitemap](/blog/web/sitemap_unix_tree) - created new and first blog/ dir. category, new post
 
 ### 2024/10/17

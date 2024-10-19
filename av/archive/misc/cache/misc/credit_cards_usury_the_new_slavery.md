@@ -11,17 +11,17 @@ Usury is the over-charging of interest on loaned money. It is prohibited in the 
 
 The prophet Ezekiel compares usury to rape, murder, robbery, and idolatry (Ezekiel 18:10-13). It is idolatry, because it makes money a god. It is robbery, because it takes from the poor money they don’t even have yet. It is murder, because it strangles people to death. It is rape, because it looks like love but is really just domination.
 
-The Romans limited interest. The Torah forbade charging interest to fellow Jews. Medieval canon law threatened excommunication to those who charged interest. Dante put usurers on the lowest ledge of the 7th circle of hell (below murderers). After 1776, all 13 initial states capped interest at 6%.
+The Romans limited interest. The Torah forbade charging interest to fellow Jews. Medieval canon law threatened excommunication to those who charged interest. Dante put usurers on the lowest ledge of the 7th circle of hell (below murderers). After 1776, all 13 initial states capped interest at 6 percent.
 
 But in 1978, the U.S. Supreme Court decided that banks could export their interest rates to any other state they did business in. So, South Dakota summarily got rid of its interest cap laws and banks quickly began moving their headquarters to the badlands.
 
-In 2006, Congress passed a law that capped interest that can be charged to active military at 36%, since soldiers are often the prey of pay-day loan vendors. 36%! Throughout most of human history, anyone charging 36% would be imprisoned or worse.
+In 2006, Congress passed a law that capped interest that can be charged to active military at 36 percent, since soldiers are often the prey of pay-day loan vendors. 36 percent! Throughout most of human history, anyone charging 36 percent would be imprisoned or worse.
 
 The average American household has a ridiculous amount of debt. The worst of this is $15,762 in credit cards debt, none of which adds any lasting value. The best of it is mortgage debt, averaging $168,614 but bringing equity with it. The average student loan debt comes in at $48,172, but it brings the potential of value with employment. And car loans add another average debt of $27,141, with the resale value of the used cars coming in well below what is owed.
 
 Of the four kinds of debt mentioned above, three of them have some kind of value associated with them — a house, an education, a car — even if that value doesn’t always match the debt. Credit card debt adds no value. And the much higher interest rates associated with credit debt make it that much worse.
 
-In many cases, Americans are paying only the minimum payments each month, watching the balance they owe increase as their payments only apply to interest and not to principal. According to NerdWallet.com, the average household spends 9% of its income just on debt interest.
+In many cases, Americans are paying only the minimum payments each month, watching the balance they owe increase as their payments only apply to interest and not to principal. According to NerdWallet.com, the average household spends 9 percent of its income just on debt interest.
 
 I CALL THIS SLAVERY. BUT IN THIS CASE, IT’S COMPLETELY VOLUNTARY. THE SYSTEM IS SET UP TO ENSLAVE US, BUT IT IS WE WHO ENTER INTO THIS SLAVERY ONE PURCHASE AT A TIME.
 

@@ -16,4 +16,4 @@ My [sitemap](/sitemap.html)
 
 <img src="pix/sitemap_awk.avif" style="width:250px; height: auto;">
 
-<object data=txt/awk_sitemap.txt width=390 height=340></object>
+[awk script ](txt/awk_sitemap.txt)

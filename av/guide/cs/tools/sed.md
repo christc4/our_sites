@@ -36,3 +36,8 @@ s/\<str\>/gif/g: Substitute (s) str with gif, where \< and \> ensure that only t
 	for file in *.md; do sed -i 's|\.pix/||g' "$file"; done
 
 removes every instance of .pix/
+
+sed 's/="\./="/' filename
+
+
+sed 's/\.md//g' filename
