@@ -6,7 +6,10 @@ Started logging updates on *2024/10/06*
 
 ### 2024/10/19
 
-- [/guide/cs/code/wolfram/keyboard](/guide/cs/code/wolfram/keyboard) - rename .txt dir. to src, .pix to pix, general formatting fix
+- [lang](/lang) - added metathesis short def.
+- [cache/metadata impact/](/archive/misc/cache/metadata_impact/) - renamed shorter, created dedicated pix dir. webp to avif
+- [cache/ax vs ask](/archive/misc/cache/ax_vs_ask) - added source to canterbury tales quote, replaced unicode char. with ascii
+- [guide/cs/code/wolfram/keyboard](/guide/cs/code/wolfram/keyboard) - rename .txt dir. to src, .pix to pix, general formatting fix
 - [blog/misc/](/blog/misc/) - added gorilla selfie stick foto
 - [cache/misc/a muslim is baptized/](/archive/misc/cache/misc/a_muslim_is_baptized/) - deleted all .webp, using .avif, created pix dir. and removed unicode char.
 

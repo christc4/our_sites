@@ -1,15 +1,16 @@
 # Metadata
 
-Saw this blog post on metadata from [dexecure](https://dexecure.com/blog/impact-of-metadata-on-image-performance/)
+Saw this blog post on metadata from [dexecure](//dexecure.com/blog/impact-of-metadata-on-image-performance/)
 
 Let me sift through the information.
 
-- Dexecure used date from the [HTTP Archive](https://httparchive.org/)
-and this BigQuery thing
+- Dexecure used date from the [HTTP Archive](//httparchive.org/)
 
- to generate list of URLs of valid JPEG images.
+and this BigQuery thing to generate list of URLs of valid JPEG images.
 
 They used the HTTP Archive craws from '2016/08/01' which contained 4.3 million JPEG images from the top 500,000 sites, totalling up to 195GB. 
+
+<object data=src/sql.txt width=860 height=60></object>
 
 They then downloaded and analysed metadata from this dataset.
 
@@ -42,16 +43,17 @@ Most common formats are,
 
 1,674,831 images, 39.9 percent of the images analysed stored some sort of metadata.
 
-<img src=average-jpeg-file.webp>
+<img src=pix/average_jpeg_file.avif>
 
 Here is a distribution showing the different formats used to store the metadata and how much size they occupy on an average
 
-<img src=formats-used-to-store-metadata.webp>
+<img src=pix/metadata_formats.avif>
 
 ## The Usual Suspects
 
 These were the fifty most common attributes stored as EXIF data
-<img src=50-most-common-exif-attributes.webp>
+
+<img src=pix/suspects.png>
 
 As you can see most of this information is not required by the browser to render the image. So you might be asking "why is sending metadata with images still a thing"
 
@@ -61,7 +63,7 @@ Before we start stripping away all the metadata from our images, there are some 
 
 Some software store thumbnails of the image as EXIF data too. So you can have a JPEG image as a thumbnail within another JPEG image.
 
-Browsers don't make use of this data, so it should be stripped out if it's intended to be part of a webpage, 
+Browsers don't make use of this data, so it should be stripped out if it's intended to be part of a avifage, 
 
 ### Copyright
 
@@ -69,9 +71,9 @@ One of the primary use cases that we have seen stored as IPTC is the name of the
 
 ### Orientation 
 
-EXIF data can also contain orientation information of the picture and browsers take cues from this to orient the image correctly. We have seen 9.1 percent of images store orientation information along as part of the EXIF data. This attribute comes into play only when you visit the image directly - say, by visiting the image directly via its URL. When you are embedding the image directly in the webpage, say via an image tag, this attribute has no effect at all (except in mobile Safari). IE <= 11 doesn’t recognize this attribute in both cases.
+EXIF data can also contain orientation information of the picture and browsers take cues from this to orient the image correctly. We have seen 9.1 percent of images store orientation information along as part of the EXIF data. This attribute comes into play only when you visit the image directly - say, by visiting the image directly via its URL. When you are embedding the image directly in the avifage, say via an image tag, this attribute has no effect at all (except in mobile Safari). IE <= 11 doesn’t recognize this attribute in both cases.
 
-Stripping out this attribute seems to be a good idea to be consistent. That way users see the image oriented the same way regardless of whether they visit the image directly or see it as part of a webpage.
+Stripping out this attribute seems to be a good idea to be consistent. That way users see the image oriented the same way regardless of whether they visit the image directly or see it as part of a avifage.
 
 ### Color Profiles
 
@@ -86,7 +88,7 @@ By default, Dexecure does not strip off ICC profiles from JPEG images since they
 ### Longer Time to Layout and Render
 In a JPEG file, EXIF metadata appears before other information such as the frame containing the height and width of the image and the scans containing the image data itself. Browsers use the height and width information in the image to help layout the page and the earlier the browser finds this information, the better.
 
-It would also take a longer time for the browser to render the image since the browser would have to download all the metadata in the JPEG file before it starts getting the scans containing the image data. Chrome prioritises the download of the first image that it sees in a webpage and you would be wasting crucial bytes sending metadata, instead of the image content itself. This especially matters during the initial stages of the page load where the TCP window is quite small due to TCP slow start.
+It would also take a longer time for the browser to render the image since the browser would have to download all the metadata in the JPEG file before it starts getting the scans containing the image data. Chrome prioritises the download of the first image that it sees in a avifage and you would be wasting crucial bytes sending metadata, instead of the image content itself. This especially matters during the initial stages of the page load where the TCP window is quite small due to TCP slow start.
 
 ### Wider Surface for Security Attacks
 There have been quite a few attacks - both server side and on the client side because of improper handling of image metadata. As with any other user provided data, make sure you are sanitising it properly before using them in a security sensitive context.
