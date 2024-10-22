@@ -36,11 +36,12 @@ fn run {
 fn sbar {
 	ls -F av/./$rpafs | sed -e 's,/+\./+,/,g' \
 	-e '/\/i\.(md)$/d' \
+	-e '/\/s\.(json)$/d' \
 	-e 's/\.(md)$//' -e 's!^av!!' | sort | awk -F/ '
 	function p(x, y, s) { for (i=0; i<x-y; i++) printf s }
 	BEGIN {
 		lNF = 2
-		print "<style>nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 25%}article{flex:1}nav{min-width:12em}nav ul{list-style:none; border-bottom:1px solid;}</style><meta charset=utf-8><nav><ul>"
+		print "<style>nav li ul{padding-left:.5em}body{background-color:#000;color:#bdbdbd;display:flex;flex-wrap:wrap;margin:0 25%}article{flex:1}nav{min-width:12em}nav ul{list-style:none; border-bottom:1px solid;}img{width:200}a{color: #56c8ff; text-decoration: none;}</style><nav><ul>"
 	}
 
 	{

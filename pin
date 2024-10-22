@@ -46,7 +46,7 @@ awk -F/ '
     END { p(lNF, 2, "</ul>"); printf "</ul></nav>" }'}
 fn run_handlers {for (h in $*) {run_handler $$h}}
 fn run_handler {$*(1) $*(2-)}
-fn setup_handlers {body=(m2h $local_path.md)}
+fn setup_handlers {body=(mh $local_path.md)}
 fn template {
     for (h in $bar) {run_handler $$h}
     run_handler $body

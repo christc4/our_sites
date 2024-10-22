@@ -4,6 +4,14 @@ make https guide
 
 Started logging updates on *2024/10/06*
 
+### 2024/10/21
+
+- [home](/) - started adding tagclouds to various index pages
+- dark theme change, fg #bdbdbd, a #56c8ff
+- [home](/) - added searchbar to home page
+- added dark theme, bg #000, fg #aac0db
+- moved icons back to main branch
+
 ### 2024/10/19
 
 - [lang](/lang) - added metathesis short def.

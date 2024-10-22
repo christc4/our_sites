@@ -4,7 +4,7 @@
 
 <img src=".pix/kiss2.avif" style="width:250px; height: auto;">
 
-THe Assistant under Secretary for Health for Operations wanted this photo removed
+The Assistant under Secretary for Health for Operations wanted this photo removed
 
 You can read the official memorrandum here,
 
