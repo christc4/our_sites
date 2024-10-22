@@ -1,4 +1,4 @@
-<img src=".pix/wood1.webp" style="max-width: 390px; height: auto;">
+<img src=pix/wood_sanding1.avif>
 
 The bottom wood was notoriously hard to sand down, I'd recommend using bits of furniture
 
@@ -10,8 +10,17 @@ Since these are holy images, even if they are prints, treat them with respect, i
 
 Make sure i run imagemagick, on my failed reverse one to show the people how it should look
 
-<h2 id="take-aways">everything else:</h2>
+
+<h2 id=pix/"take-aways">everything else:</h2>
 You may ask why did I paint it black?
 Well, I haven't perfected the "scrubbing" technique, removing the paper, requires patience, so more than often, if you scrub with your fingers too hard or over the same area too many times, while still wet, you will pull the adhered paper. Black isn't the best colour, especially for an Orthodox icon.
 
-
+<img src=pix/decoupage_icon1.avif>
+<img src=pix/decoupage_icon2.avif>
+<img src=pix/decoupage_icon3.avif>
+<img src=pix/decoupage_icon4.avif>
+<img src=pix/decoupage_icon5.avif>
+<img src=pix/decoupage_icon6.avif>
+<img src=pix/decoupage_icon7.avif>
+<img src=pix/decoupage_icon8.avif>
+<img src=pix/decoupage_icon9.avif>

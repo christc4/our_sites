@@ -4,6 +4,11 @@ make https guide
 
 Started logging updates on *2024/10/06*
 
+### 2024/10/22
+
+- [guide/art/wood/decoupage](/guide/art/wood/decoupage) added fotos of icon
+- created wood dir. for wood stuff in /guide/art, moved decoupage from ico dir.
+
 ### 2024/10/21
 
 - [home](/) - started adding tagclouds to various index pages
