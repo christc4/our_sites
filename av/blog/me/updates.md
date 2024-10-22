@@ -6,6 +6,8 @@ Started logging updates on *2024/10/06*
 
 ### 2024/10/22
 
+- [lang](/lang) - added inversion short def.
+- [lang/cn](/lang/cn/) - added 1000 commonmost chinese characters
 - [guide/art/wood/decoupage](/guide/art/wood/decoupage) added fotos of icon
 - created wood dir. for wood stuff in /guide/art, moved decoupage from ico dir.
 

@@ -16,8 +16,6 @@ My name is Christ Amlai, or Χρίστος.  I'm 20. I mainly blog about computi
 
 number is equal to entrail count
 
-<a href=archive/><span style="font-size: 30px;">archive      246</span></a> | <a href=blog/><span style="font-size: 20px;">blog       96</span></a> | <a href=guide/><span style="font-size: 25px;">guide      166</span></a> | <a href=icons/><span style="font-size: 15px;">icons       24</span></a> | <a href=lang/><span style="font-size: 15px;">lang       28</span></a> | <a href=mal/><span style="font-size: 15px;">mal       35</span></a> | 
-
 powered by [cork](//work.avsbq.org/cork/)
 
-<hr>
+<a href=archive/><span style="font-size: 40px;">archive      246</span></a> | <a href=blog/><span style="font-size: 15px;">blog       96</span></a> | <a href=guide/><span style="font-size: 30px;">guide      167</span></a> | <a href=icons/><span style="font-size: 15px;">icons       24</span></a> | <a href=lang/><span style="font-size: 15px;">lang       28</span></a> | <a href=mal/><span style="font-size: 15px;">mal       35</span></a> | 

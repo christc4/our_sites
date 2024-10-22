@@ -10,6 +10,11 @@ Donald J. Trump, @realDonaldTrump
 	- inversion of normal word order, especially for emphasis sake
 	- "This I must see"
 
+### _i_
+
+- inversion
+	- where two expressions switch their typical or expected order of appearance, that is, they invert
+
 ### _m_
 
 - metathesis
