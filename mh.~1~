@@ -136,7 +136,7 @@ nnl > nl {
     }
 }
 
-/^#+/ && (!newli || par=="p" || /^##/) { for(n = 0; n < 6 && sub(/^# */, ""); n++) sub(/#$/, ""); par = "h" n; }
+# /^#+/ && (!newli || par=="p" || /^##/) { for(n = 0; n < 6 && sub(/^# */, ""); n++) sub(/#$/, ""); par = "h" n; }
 
 /^$/ { printp(par); par = "p"; next; }
 

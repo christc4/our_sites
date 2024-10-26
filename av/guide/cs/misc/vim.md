@@ -85,3 +85,5 @@ this removes all instances // is replacement text, meaning p will be reeplaced w
 :%s/<\/FONT><FONT FACE="Courier New" SIZE=2>//g
 :%s/<\/FONT><FONT SIZE=2>//g
 
+
+set mouse=a

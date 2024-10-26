@@ -226,3 +226,5 @@ I'm going to claim i have ancient wisdom in my next job interview
 gm. _General motors_ to you to!
 
 We captured the injured alien from a crashed ship, and chained it up in my basement to study it. As it died, it kept whispering things in its strange language, like "agua, por favor, agua", and "oh dios duele"
+
+Grades aren't the B all or end all

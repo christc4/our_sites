@@ -3,7 +3,7 @@
 *Last update: 2024/09/08*
 
 <details><summary>Sources used:</summary>
-[zemadi (coderbyte)](https://gist.github.com/zemadi/11071837)
+[zemadi](https://gist.github.com/zemadi/11071837)
 </details>
 
 #### Remove all exclamatory signs

@@ -6,6 +6,10 @@ Started logging updates on *2024/10/06*
 
 ### 2024/10/22
 
+- fg bdc1c6, a 99c3ff, 202124 bg copied google dark theme
+
+### 2024/10/22
+
 - [lang](/lang) - added inversion short def.
 - [lang/cn](/lang/cn/) - added 1000 commonmost chinese characters
 - [guide/art/wood/decoupage](/guide/art/wood/decoupage) added fotos of icon

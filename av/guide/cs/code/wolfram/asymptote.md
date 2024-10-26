@@ -4,6 +4,6 @@
 
 [Wolfram - FunctionRepository/resources/Asymptotes](//resources.wolframcloud.com/FunctionRepository/resources/Asymptotes/)
 
-<object data="src/asymptote.txt" width="500px" height="60px"></object>
+`Plot[{Exp[-x] + 8, 8}, {x, 0, 3}, PlotRange -> {7.5, 9}, PlotStyle -> {Lighter[Blue, 0.5], {{Red, Dashed, Thick}}}]`
 
 <img src="pix/asymptote1.svg" style="width:350px; height: auto;">
