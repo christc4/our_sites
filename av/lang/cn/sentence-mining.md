@@ -5,7 +5,7 @@
 [L](#L), [M](#M)
 
 
-###  <a name='L'>L</a>
+78/9697]666667/56
 
 - 恋人
 	- 两个恋人发誓永远相爱
@@ -38,7 +38,7 @@
 我觉得非常，啊～非常可悲吧 - I feel this situation is really quite sad
 
 More stuff
-
+|-
 你吃饭了吗 - Have you had a meal?
 
 这个子怎么读？ - This character how pronounce?
@@ -81,7 +81,7 @@ More stuff
 
 我只能说�谢谢 我家宝宝现在差不多一岁了 My baby is almmost a year old now 首先，中文是方块字 - First of all chinese is a square character �我很想妈妈，有时候我都能看见她 首先是因为我先生他想吃面包� - First of all, because my husband wanted to eat bread 我我我�我觉得他比较关心人，也很有责任心 - I thought he was a caring and respsonsible person 对。好浪漫 - How romantic 暂时没有，�，因为� - Not at the moment 我觉得还是有必要的，这样他不会太依赖于我 - I think it is, because that way, he won't be too dependent on me 目前没有，但�但是呢我也想多做一点事情 我正在学中文 我吃惯了中餐
 
-我就这么说吧， Let me put it this way 就是你需要每天锻炼�, You need to practice this everyday 应该是�我十六岁的时候�, It must have been when I was 16 years old
+N
 
 首先呢，基本信息, First off, basic info
 

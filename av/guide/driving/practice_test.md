@@ -116,19 +116,29 @@ Improved grip on the road
 
 Keep well to the left of the road
 
-Following a collision, a person has been injured. What would be a warning sign for shock?
+*Following a collision, a person has been injured. What would be a warning sign for shock?*
 
-What should you do if your anti-lock brakes (ABS) warning light stays on?
+Rapid shallow breathing
 
-You're approaching a roundabout. What should you do if a cyclist ahead is signalling to turn right?
+*What should you do if your anti-lock brakes (ABS) warning light stays on?*
 
-When would you use the right-hand lane on a three-lane motorway?
+Have the brakes checked immediately
 
-You take some cough medicine given to you by a friend. What should you do before driving your car?
+*You're approaching a roundabout. What should you do if a cyclist ahead is signalling to turn right?*
 
-What should you do as you approach this lorry?
+Give the cyclist plenty of room
 
-<img src=pix/
+*When would you use the right-hand lane on a three-lane motorway?*
+
+When you're overtaking
+
+*You take some cough medicine given to you by a friend. What should you do before driving your car?*
+
+Check the label to see if the medicine will affect your driving
+
+*What should you do as you approach this lorry?*
+
+<img src=pix/approaching-lorry.avif>
 
 You're carrying an 11-year-old child on the front seat of your car. They're under 1.35 metres (4 feet 5 inches) tall. What seat belt security must be in place?
 
