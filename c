@@ -41,7 +41,7 @@ fn sbar {
 	function p(x, y, s) { for (i=0; i<x-y; i++) printf s }
 	BEGIN {
 		lNF = 2
-		print "<style>nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 26%}article{flex:1}nav{min-width:12em}nav ul{border-bottom:1px solid;}ul{list-style: none}a{text-decoration:none}</style><nav><ul>"
+		print "<style>nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 26%}article{flex:1}nav{min-width:12em}nav ul{border-bottom:1px solid;}ul{list-style: none}a{text-decoration:none}a:hover{color: red}</style><nav><ul>"
 	}
 
 	{

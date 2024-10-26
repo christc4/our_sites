@@ -1,10 +1,23 @@
 <meta charset=utf-8>
 
-# Sentence Mining 2
+# Table of Contents
 
-*Last update: 2024/09/09*
+[L](#L), [M](#M)
 
-> *NOTE:* My [old page](sentence_mining.html)
+
+###  <a name='L'>L</a>
+
+- 恋人
+	- 两个恋人发誓永远相爱
+	- 恋爱使人盲目
+
+###  <a name='M'>M</a>
+
+- 梦见
+	- 你梦见过我妈
+	- 我常梦见你。我经常梦见她。我在梦里见你。
+	- 我依然会梦见德国
+	- 我做梦也没想到会在这里见到你。
 
 ### 懂
 

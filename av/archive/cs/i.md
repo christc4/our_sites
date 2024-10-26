@@ -2,8 +2,8 @@
 
 We tricked rocks into thinking
 
-<img src=thompson_and_ritchie.avif>
-<img src=trump_programming.avif>
+<img src=ppl/pix/thompson-and-ritchie.avif>
+<img src=ppl/pix/trump-programming.avif>
 
 Learn about...
 
