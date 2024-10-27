@@ -10,6 +10,9 @@
 	- [Screenshot to clipboard](#screenshot-clipboard)
 	- [Shuffle images](#shuffle-images)
 - [Batch Image Conversion](#batch-image-conversion)
+- [Fuzzy edit](#fuzzy-edit)
+	- [v1](#fuzzy-edit1)
+	- [v2](#fuzzy-edit2)
 - [Generic git-push](#git-push1)
 
 ##  <a name='one-liners'>One-Liners</a>
@@ -43,6 +46,16 @@ This replaces every 'space' with an underscore
 ##  <a name='batch-image-conversion'>Batch image conversion</a>
 
 <object data="src/batch-image-conversion1.txt" width="350px" height="340px"></object>
+
+##  <a name='fuzzy-edit'>Fuzzy edit</a>
+
+###  <a name='fuzzy-edit1'>Fuzzy edit v1</a>
+
+<object data="src/fuzzy-edit1.txt" width="350" height="210"></object>
+
+###  <a name='fuzzy-edit2'>Fuzzy edit v2</a>
+
+<object data="src/fuzzy-edit2.txt" width="350" height="272"></object>
 
 ##  <a name='git-push1'>Generic git push</a>
 
