@@ -4,6 +4,8 @@
 
 - brunt
 	- _She bore the brunt of their insults_ 
+- fraught
+	- _Her solution was fraught with its own problems_
 - wane
 	- _With no sign of waning_
 - writhe
