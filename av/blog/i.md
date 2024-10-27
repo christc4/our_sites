@@ -4,6 +4,7 @@
 Table of Contents
 
 - [Agit Prop](#agit-prop)
+- [Amazon society](#amazon-society)
 - [Autism](#autism)
 - [Blind spot](#blind-spot)
 - [Chinese characters](#chinese-characters)
@@ -46,6 +47,10 @@ When you're agitated
 - You're prone to be duped
 - Be blindsided of who the ''real'' culprits string-pullers are
 - Waste time and more importantly energy on not doing what in your heart of hearts is the solution
+
+## <a name=amazon-society>Amazon Society</a>
+
+Music stores, with listening booths, arts 'n crafts stores with  benches to paint. Doesn't amazon and online shopping have a hand in destroying those places of gathering
 
 ##  <a name='autism'>Autism</a>
 
