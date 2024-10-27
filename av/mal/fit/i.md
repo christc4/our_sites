@@ -21,6 +21,7 @@ Both are incredibly obese and unhealthy...
 	- Train insane or remain the same...
 	- Go hard or go home
 	- Suffer or suffer..
+	- More plates more dates
 
 - Acronyms and other
 	- DYEL (Do you even lift?)

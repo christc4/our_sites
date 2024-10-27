@@ -6,14 +6,18 @@
 	- [Batch Replace filename char.](#replace-filename-char)
 	- [Batch rename filename, uppercase to lower](#file-rename-uppercase-lower)
 	- [Batch file rename](#file-rename)
+	- [File size](#file-size)
 	- [Fuzzy cd](#fuzzy-cd)
 	- [Screenshot to clipboard](#screenshot-clipboard)
 	- [Shuffle images](#shuffle-images)
+- [Batch gif background color removal](#batch-gif-bg-color-remove)
 - [Batch Image Conversion](#batch-image-conversion)
+- [Chinese Char. Lookup](#chinese-lookup)
 - [Fuzzy edit](#fuzzy-edit)
 	- [v1](#fuzzy-edit1)
 	- [v2](#fuzzy-edit2)
 - [Generic git-push](#git-push1)
+- [JSON generate](#json-generate)
 
 ##  <a name='one-liners'>One-Liners</a>
 
@@ -31,6 +35,10 @@ This replaces every 'space' with an underscore
 
 `find . -type f -name 'index.md' -execdir mv '{}' i.md \;`
 
+###  <a name='file-size'>File size</a>
+
+`du -sk * | sort -nr | awk '{print $1/1024 " MB\t" $2}'`
+
 ###  <a name='fuzzy-cd'>Fuzzy cd</a>
 
 `cd $(find /var/www/werc/sites -type d \( -name .git -prune \) -o \( -type d -print \) | fzf) && clear`
@@ -43,9 +51,17 @@ This replaces every 'space' with an underscore
 
 `find . -type f | shuf | nsxiv -ai`
 
+##  <a name='batch-gif-bg-color-remove'>Batch gif background color removal</a>
+
+<object data=src/batch-gif-bg-color-remove.txt></object>
+
 ##  <a name='batch-image-conversion'>Batch image conversion</a>
 
 <object data="src/batch-image-conversion1.txt" width="350px" height="340px"></object>
+
+##  <a name='chinese-lookup'>Chinese char. lookup</a>
+
+<object data=src/cn-lookup.txt></object>
 
 ##  <a name='fuzzy-edit'>Fuzzy edit</a>
 
@@ -60,3 +76,7 @@ This replaces every 'space' with an underscore
 ##  <a name='git-push1'>Generic git push</a>
 
 <object data="src/git-push.txt" width="350px" height="200px"></object>
+
+##  <a name='json-generate'>JSON generate</a>
+
+<object data=src/json-generate.txt></object>

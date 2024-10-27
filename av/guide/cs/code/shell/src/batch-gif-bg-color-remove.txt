@@ -4,11 +4,9 @@ input_folder=$(pwd)
 output_folder=$(pwd)
 background_color="#0c1214"
 
-# Ensure the output folder exists
 mkdir -p "$output_folder"
 
 for input_file in "$input_folder"/*.gif; do
-    # Extract the filename without the extension
     filename=$(basename -- "$input_file")
     filename_no_extension="${filename%.*}"
 
