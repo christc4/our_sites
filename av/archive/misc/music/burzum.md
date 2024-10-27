@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-- [The Great Sleep](#The Great Sleep)
+- [The Great Sleep](#the-great-sleep)
 
-###  <a name='The Great Sleep'>The Great Sleep</a>
+###  <a name='the-great-sleep'>The Great Sleep</a>
 
 Det blir godt å sove sove
 
