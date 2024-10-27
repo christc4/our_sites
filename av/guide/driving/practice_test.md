@@ -140,9 +140,11 @@ Check the label to see if the medicine will affect your driving
 
 <img src=pix/approaching-lorry.avif>
 
-You're carrying an 11-year-old child on the front seat of your car. They're under 1.35 metres (4 feet 5 inches) tall. What seat belt security must be in place?
+*You're carrying an 11-year-old child on the front seat of your car. They're under 1.35 metres (4 feet 5 inches) tall. What seat belt security must be in place?*
 
-What shape are traffic signs giving orders?
+They must use a suitable child restraint
+
+*What shape are traffic signs giving orders?*
 
 <img src=pix/
 
