@@ -1,8 +1,9 @@
 # Shells
 
-She sells seashells by the sea shore
+- She sells seashells by the sea shore
+- It's called a shell as it hides the kernel
 
-It's called a SHELL as it hides the kernel
+[SCRIPTS](scripts)
 
 ## Tutorials
 

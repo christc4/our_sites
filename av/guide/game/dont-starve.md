@@ -193,5 +193,3 @@ Spawning items directly into inventory (UF)
 	c_give("prefabname", amount)
 
 Only spawn items that can be stored in your inventory with this command
-
-%
