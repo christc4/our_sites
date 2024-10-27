@@ -1,11 +1,19 @@
+<style>#toc{position:fixed;top:20px;right:20px;max-width:200px;padding:10px;overflow-y:auto;max-height:80vh;z-index:1000}</style>
+
 # Python Programming
 
-## Table of Contents
+
+<div id="toc">
+Table of Contents
 
 - [Boolean](#boolean)
+- [Class](#class)
 - [Dictionary](#dictionary)
+- [Functions](#functions)
+- [Lambda](#lambda)
 - [String](#string)
 - [While](#while)
+</div>
 
 ##  <a name='boolean'>Boolean</a>
 
@@ -47,6 +55,30 @@ You can use the function 'bool' to test
 
 <object data=src/bool-test-true-false.txt></object>
 
+##  <a name='class'>Class</a>
+
+Sources: [Xah Lee](//xahlee.info/python/classes.html)
+
+A class is a boxed set of functions and variables. It defines a blueprint, of what variable and functions is together as a single thing.
+
+### Define a Class
+
+<object data=src/define-a-class.txt></object>
+
+By convention, class names start with a capital
+
+### Instantiate a Class, Create a Object
+
+Classes are just blueprints of structures. Classes are usesell by themselves, just as how functions are useless if you don't call them
+
+So you need to create a instance of the class to acutally do something.
+
+Instance of a Class is called Object
+
+Define constructor
+
+You can define a method in a class such that it'll be automatically called when the class is instantiated. Such a method is called constructoro (aka initializer)
+
 ##  <a name='dictionary'>Dictionary</a>
 
 <details><summary>Sources used:</summary>[w3schools](//w3schools.com/PYTHON/python_dictionaries.asp), [programiz.com](//programiz.com/python-programming/methods/dictionary)</details>
@@ -66,6 +98,42 @@ The values() method returns a view object that displays a list of all the values
 <object data=src/values-example.txt></object>
 
 values() doesn't take any parameters
+
+##  <a name='functions'>Functions</a>
+
+Sources: [Bro Code](//youtu.be/89cGQjB5R4M?si=EIjztJPrvIBNdDoB), [Xah Lee](//xahlee.info/python/function_def.html), [Makers Academy, Intro-To-Python](//github.com/makersacademy/intro-to-python/blob/main/011_identity.py)
+
+Functions are reusable blocks of code. Think of them as little machines, taking inputs, processing them in some way and returing an output
+
+Independent functions
+
+`len(my_string)`
+
+Method functions
+
+`my_string.replace("h", "w")`
+
+## Happy Birthday
+
+Tutorial from [Bro Code](https://youtu.be/89cGQjB5R4M?si=EIjztJPrvIBNdDoB)
+
+<object data=src/function_print1.txt width=340 height=110></object>
+
+## Invoice
+
+<object data=src/function_print2.txt width=470 height=110></object>
+
+`.2f` means round up to 2 decimal places
+
+The `return` keyword is to exit a function and return a value
+
+    def myfunction():
+        return 3+3
+    print(myfunction())
+
+Statement's after the return line won't be executed
+
+When you call a function some space gets allocated to it in RAM, when you compute the value of numbers that value will only exist while the function is still running, when the function gets deleted, most things in RAM such as integers get deleted
 
 ##  <a name='string'>String</a>
 
@@ -165,23 +233,46 @@ while i < 6:
 
 ## Cats
 
-    print("")
-    print("Function: add_cats_repeatedly")
+<object data=src/function-add-cats.txt></object>
 
-    # Write a function that adds the item "cats" to the given
-    # word_list, repeatedly, a number of times defined by the
-    # given count parameter.
-    # Example:
-    #    add_cats_repeatedly([], 3)
-    # => ['cats', 'cats', 'cats']
+##  <a name='lambda'>Lambda</a>
 
-    def add_cats_repeatedly(word_list, count):
-        for _ in range(count):
-            word_list.append("cats")
-        return word_list
+Sources: [Xah Lee](//xahlee.info/python/python_lambda.html), [w3schools](//w3schools.com/python/python_lambda.asp)
 
-    # Test cases
-    print(add_cats_repeatedly([], 3))  # ['cats', 'cats', 'cats']
-    print(add_cats_repeatedly(['dogs'], 2))  # ['dogs', 'cats', 'cats']
-    print(add_cats_repeatedly([], 0))  # []
+Lambdas *MUST* be in a single line
 
+### Lambda by example
+
+Lambda with one arg, a function that adds 1
+
+`print((lambda x: x + 1)(3))`
+
+Add 10 to argument and return result
+
+`x = lambda a : a + 10`
+
+Lambda with two args, a function that adds two numbers
+
+`print((lambda x, y: x + y)(3, 4))`
+
+Summarize argument a, b, and c and return the result:
+
+`x = lambda a, b, c : a + b + c`
+
+Giving lambda a name
+
+`ff = lambda x: x + 1`
+
+Add two nummbers
+
+`ff = lambda x, y: x + y`
+
+Lambda used with filter
+
+<object data=src/lambda-filter1.txt></object>
+
+### Why use lambda?
+
+The power of lambda is better shown when you use them as an anonymous function inside another function. Say you have a function definition that takes one argument, and that argument will be multiplied with an unknown number:
+
+<object data=src/lambda-doubler.txt></object>

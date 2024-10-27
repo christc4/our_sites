@@ -1,6 +1,9 @@
+<style>#toc{position:fixed;top:20px;right:20px;max-width:200px;padding:10px;overflow-y:auto;max-height:80vh;z-index:1000}</style>
+
 # Shell Scripts
 
-## Table of Contents
+<div id="toc">
+Table of Contents
 
 - [One-Liners](#one-liners)
 	- [Batch Replace filename char.](#replace-filename-char)
@@ -18,6 +21,7 @@
 	- [v2](#fuzzy-edit2)
 - [Generic git-push](#git-push1)
 - [JSON generate](#json-generate)
+</div>
 
 ##  <a name='one-liners'>One-Liners</a>
 
