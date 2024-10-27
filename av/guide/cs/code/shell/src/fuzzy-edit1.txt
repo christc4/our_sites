@@ -1,7 +1,7 @@
 #!/bin/sh
 
 clear &&
-vim "$(find /var/www/werc/sites -type d -name '.git' -prune -o -type f \
+$EDITOR "$(find /var/www/werc/sites -type d -name '.git' -prune -o -type f \
 -not -name '*.webp' \
 -not -name '*.webm' \
 -not -name '*.pdf' \
