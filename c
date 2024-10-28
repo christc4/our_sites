@@ -53,7 +53,7 @@ fn sbar {
 
 	END {
 		p(lNF, 2, "</ul>")
-		print "</ul></nav><article><p>Site under construction, a lot of pages especially code may be broken"
+		print "</ul></nav><article><p>Site under huge construction, a lot of pages especially code may be broken!"
 	}'
 }
 
