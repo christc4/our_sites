@@ -1,7 +1,5 @@
-<style>#toc{position:fixed;top:20px;right:20px;max-width:200px;padding:10px;overflow-y:auto;max-height:80vh;z-index:1000}</style>
-
 <div id="toc">
-Table of Contents
+Blog posts
 
 - [Agit Prop](#agit-prop)
 - [Amazon society](#amazon-society)
