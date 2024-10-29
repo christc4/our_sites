@@ -1,73 +1,96 @@
-# Quotes
+<div id=toc>
+Table of Contents
 
-<img src=".pix/liberty.avif" style="width:300px; height: auto;">
+- [Effects](#effects)
+	- [Halo](#halo)
+	- [Lindy](#lindy)
+	- [Streisand](#streisand)
+- [Fallacies](#fallacies)
+	- [Appeal to Authority](#appeal-to-authority)
+	- [Quantifier shift](#quantifier-shift)
+- [Laws](#laws)
+	- [Fitts](#fitts)
+	- [Wirths](#wirths)
+- [Quotes](#quotes)
+</div>
 
-Names intentionally redacted
+## <a name=effects>Effects</a>
 
-If it comes as a gift from one's beloved even a pebble from the roadside will outshine any gem 
+### <a name=halo>Halo</a>
 
-Between your regrets after quitting and your current suffering which can you bear more easily? Try putting them on a scale
+The halo effect (sometimes called the halo error) is the proclivity for positive impressions of a person, company, country, brand, or product in one area to positively influence one's opinion or feelings.[1][2] Halo effect is "the name given to the phenomenon whereby evaluators tend to be influenced by their previous judgments of performance or personality."[3] The halo effect is a cognitive bias which can prevent someone from forming an image of a person, a product or a brand based on the sum of all objective circumstances at hand.
 
-If it looks like a duck and quacks like a duck then it's probably a duck
+The term was coined by Edward Thorndike. A simplified example of the halo effect is a person, after noticing that an individual in a photograph is attractive, well groomed, and properly attired, then assuming, using a mental heuristic, that the person in the photograph is a good person based upon the rules of their own social concept.[4][5][6] This constant error in judgment is reflective of the individual's preferences, prejudices, ideology, aspirations, and social perception.[7][6][8][9][10]
 
-Beauty occupies a narrow band but ugliness has infinite variation
+### <a name=lindy>Lindy</a>
 
-It's trivial for God to reveal secrets such as new technology or other secrets and cause insane price disturbances and throw the whole world into complete chaos
+Theorized, the future life expectancy of some non-perishable things, technology or ideas are proportional to their current age. The longer a period something has survived to exst or be used in the present, the longer its remaining life expectancy
 
-A gem cannot be polished without friction, nor a man perfected without trials
+### <a name=streisand>Streisand</a>
 
-The road to hell is paved with people with good intentions
+<img src="pix/streisand-estate.avif" style="width:410px; height: auto;">
 
-If you crush a cockroach, you're a hero. If you crush a beautiful butterfly, you're a villain. Morals have aesthetic criteria
+Try to hide, or otherwise draw attention away from something - only serves to attract more attention to it.
 
-The gates of hell are locked from the inside
+Name comes from singer/actress Barba Streisand's lawsuit against a photographer in 2003.
 
-The world gets wider and wider and even the view I saw yesterday looks different to me today
+Kenneth Adelman (photographer), shot Californian coastline, posting the photos online, as free nonprofit images. Amongst 12,000 photos, one was Streisand's mansion. 
 
-Necessity is the mother of all invention
+At the time, lawsuit was filed it'd only been downloaded six times, including twice by her own lawyers, after publicization of the lawsuit and a flurry of interest - the photo was viewed more than 400,000 times.
 
-Stop scrimping on pennies, as it will cost you pounds in the long run
 
-Give them bread and circuses and they will never revolt
+## <a name=fallacies>Fallacies</a>
 
-One of my most productive days was throwing away 1000 lines of code
+### <a name=appeal-to-authority>Appeal to Authority</a>
 
-The moment I started working at the bank, I immediately knew this. My friend put it best: We're not even the cogs in the machine. We're the grease.
+A proposition isn't made true or false on the basis of whether an authority agrees with it; propositions have an independent truth value which an authority may err in identifiyng. 
 
-Who watches the watchmen?
+Sands of scholarship shift greatly. 
 
-"Extremism" is a meaningless term it's whatever the current brokers of power determine it to be
+### <a name=quantifier-shift>Quantifier shift</a>
 
-By nature of being on the side of truth, its easy to make everyone else look like the fools they are
+We all have one mother, therefore we have the same mother
 
-First they came for the Xs, and I did not speak out-because I was not a X.  Then they came for the Ys, and I did not speak out-because I was not a Y.  Then they came for the Xs, and I did not speak out-because I was not a Z.  Then they came for me-and there was no one left to speak for me.
+## <a name=laws>Laws</a>
 
-The higher a person's position in society the more he should help others without ever reminding them of his position
+### <a name=fitts>Fitts</a>
 
-We cannot deny the fringes of society but we should never place them in the center. Gargoyles belong on the outside of Churches, not at the Altar
+<details><summary>Sources used:</summary>
+[mbreen](https://mbreen.com/fitts-apple/),
+</details>
 
-Ned said Homer was his true test from God to see if he's worthy to go to heaven
+A model of movement in human-computer interaction and interaction.
 
-Before you heal someone, ask him if he's willing to give up the things that make him sick
+In brief, it predicts the time required to quickly move to a target area is the function of the ratio between the distance to the target and the width of the target.
 
-One person's hate speech is another person's love speech
+## MacOS analogy
 
-It takes a village to raise a child
+Analogy from [mbreen](https://mbreen.com/fitts-apple/),
 
-How do you make a sculpture that great? Oh it's easy you cut away all the parts that don't look like David
+<img src="pix/a1.avif" style="width: 450px; height: auto;">
 
-Thank Jesus for autism. Its the divine disease, an endless paradoxical puzzle
+In MacOS, if your active window is near the bottom of the screen, having the menu bar at the top edge is an extremely long trek. Except, this trek is to do an extremely simple computational task.
 
-The answer to 1984 is 1776
+<img src="pix/a2.avif" style="width: 450px; height: auto;">
 
-Everyone is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid
+Also consider the return journey you have to make from menu bar to active window!
 
-You forget about a thousand things each day, make sure this is one of them
+### To-do
 
-Genetics load the gun but lifestyle pulls the trigger
+plan9
 
-Turn knowledge into wisdowm, the unknown into the known
+https://www.nngroup.com/articles/fitts-law/
+https://www.interaction-design.org/literature/topics/fitts-law
+https://lawsofux.com/fittss-law/
 
-The bigger your tent the more likely it'l collapse from within
+https://us.humankinetics.com/blogs/excerpt/understanding-fitts-law
+https://careerfoundry.com/en/blog/ui-design/what-is-fittss-law/
+https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/fitts-s-law
+https://blog.hubspot.com/marketing/fitts-law
+https://bootcamp.uxdesign.cc/ux-design-principle-001-fitts-law-ee08dde285c5
 
-Hunger is a legitmate response apetite is a state of mind
+### <a name=wirths>Wirths</a>
+
+Software is getting slower more rapidly than hardware is becoming faster
+
+[A Plea for Lean Software](https://www.computer.org/csdl/magazine/co/1995/02/r2064/13rRUwInv7E)

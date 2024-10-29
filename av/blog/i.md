@@ -13,7 +13,7 @@ Blog posts
 
 `You are a misplaced jewel, A treasure chest lost to sea,  I grab at you with my pincer claw, But within, there is no bead, No pearl, or jewel to catch a hefty fee, But a pile of sand turns me a fool, So I grovel back to my hovel, But herein, there is no feed`
 
-<img src="pix/cov.avif" style="width:150px; height: auto;">
+<img src="/pix/cov.avif" style="width:150px; height: auto;">
 
 ## Summary
 
@@ -96,13 +96,13 @@ CHINESE CHARACTERS WERE ONCE EXTREMELY LOGICAL... LONG AGO
 
 Look at these symbols
 
-<img src=pix/share.svg><img src=pix/contactless.svg><img src=pix/recycle.svg>
+<img src=/pix/share.svg><img src=/pix/contactless.svg><img src=/pix/recycle.svg>
 
 Imagine, you live in an uncontacted tribe and the concept of 'sharing a file' or 'contactless payment' is beyond your brain. Maybe, a smart member of the tribe, could see what these symbols represent, perhaps llikening the waves to a ripple in water, or the share dots as links, or the arrows as a continuation of something.
 
 But for the most part, these symbols are more about memorisation than understanding.
 
-<img src=pix/dumbbell.avif><img src=pix/dumbbell1.avif>
+<img src=/pix/dumbbell.avif><img src=/pix/dumbbell1.avif>
 
 _redacted_ says,
 
@@ -112,19 +112,19 @@ Maybe you can think conceptually like _redacted_
 
 For me it looks like two vintage dumbbells
 
-<img src=pix/ren_etymology.avif>
+<img src=/pix/ren-etymology.avif>
 
 The chinese character 人at face-value looks just like a banana peel to me
 
-<img src=pix/banana_peel.avif>
+<img src=/pix/banana-peel.avif>
 
 我总觉得这个汉字更像香蕉
 
-<img src=pix/xin_dog.avif>
+<img src=/pix/xin-dog.avif>
 
  the circle above a cross (♀), signifying female, and the circle below an arrow pointing diagonally upward to the right (♂), signifying male.23 Jul 2024
 
-<img src=pix/cctv_bellow.avif>
+<img src=/pix/cctv-bellow.avif>
 # City love
 
 2024/10/21
@@ -158,13 +158,14 @@ What I find even more fascinating, is that as my eyes crawled through some of th
 Maybe this is why I got a B, after sitting the exam two-times
 
  everything said will be looked at under a microscope.
+
 # Nobody knowss English
 
 *Last update: 2024/08/29*
 
 One of the easiest gages on someones subject knowledge is their fallacy count.
 
-<img src=pix/copper.avif>
+<img src=/pix/copper.avif>
 
 > _You got a licence for that fallacy?_
 
@@ -175,7 +176,7 @@ Words can encompass a totality or a particular. Words are vehicles for concepts.
 This is a star example
 
 <video width="320" height="240" controls>
-<source src=pix/ww1.webm>
+<source src=/pix/ww1.webm>
 </video>
 
 If you ever find yourself in the midst of a debate remember... if your opponently routinely gets tripped up over English leave.
@@ -253,18 +254,18 @@ This is a shell script [The Ultimate Way of Browsing Channels](https://github.co
 > _"No browsers, accounts, distractions, crappy algorithm and recommendations, advertisements, sponsors, intros, outros, fillers or empty spaces. We eliminate them all"_
 
 <video align="center" width="320" height="340" controls>
-<source src=pix/dmenu.webm>
+<source src=/pix/dmenu.webm>
 </video>
 
 You won't have to cross your fingers your kids don't encounter this!
 
-<img src=pix/50s_twerk.gif>
+<img src=/pix/50s_twerk.gif>
 
-<img src=pix/ytfzf.gif>
+<img src=/pix/ytfzf.gif>
 
 ## Centralised or Decentralised
 
-<img src=pix/centralized-decentralized.avif>
+<img src=/pix/centralized-decentralized.avif>
 
 Common people are more impressed if you design a platform as algorithmically and systematically as can be. They will believe more in it. The more it mimicks the society they live, the more invested they will be in it. If you can replicate the congregration of people in a town square - agglomerate it into smooth scrollable interface, you've created magic. 
 
@@ -280,7 +281,7 @@ But what happen's when you get kicked out of said town told to pack up your soap
 
 > For reference this is a soapbox, John Major former UK prime minister pictured atop one
 
-<img src=pix/john_major_soapbox.avif>
+<img src=/pix/john_major_soapbox.avif>
 
 The newly exiled may float in and out of other towns finding signs akin to the "No Irish, No Blacks, No Coloured' but pertaining to his particular strain of thought. Maybe he will band together with other exiles, and this exodus will start a new platform and we are back to the town square.
 

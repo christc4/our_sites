@@ -1,6 +1,12 @@
 # Think
 
-<u>Names intentionally omitted</u>
+<div id=toc>
+Table of Contents
+
+- [Quotes](#quotes)
+</div>
+
+## <a name=quotes>Quotes</a>
 
 Everyone tells you that smoking will kill you. What they don't tell you is that it cures salmon
 
