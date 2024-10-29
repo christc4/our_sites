@@ -85,11 +85,11 @@ sed 's/\.md//g' filename
 
 ## Flip images
 
-To flip vertically
+To flip horizontally
 
 	convert input.jpg -flip output.jpg
 
-To flip horizontally
+To flip vertically
 
 	convert input.jpg -flop output.jpg
 

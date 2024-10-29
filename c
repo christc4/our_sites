@@ -35,7 +35,7 @@ fn sbar {
 	function p(x, y, s) { for (i=0; i<x-y; i++) printf s }
 	BEGIN {
 		lNF = 2
-		print "<style>img{width:150px}nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:0 26%}article{flex:1}nav{min-width:12em}nav ul{border-bottom:1px solid;}nav ul{list-style: none} #toc{position:fixed;right:90px;padding:10px;}object{color: black;width:20em;height:auto;margin-top:-1em;}</style><meta charset=utf-8><nav><ul>"
+		print "<style>img{width:150px}nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:20 26%}article{flex:1}nav{min-width:12em}nav ul{border-bottom:1px solid;}nav ul{list-style: none} #toc{position:fixed;right:90px;padding:10px;}object{color: black;width:20em;height:auto;margin-top:-1em;}</style><meta charset=utf-8><nav><ul>"
 	}
 
 	{
