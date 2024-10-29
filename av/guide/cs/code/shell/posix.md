@@ -12,4 +12,4 @@ POSIX (Portable Operating System Interface) is *the* standard UNIX shell - stand
 
 It is found in /bin/sh, although it may be symlinked to bash
 
-<object data=".txt/posix.txt" width="500px" height="980px"></object>
+<object data="/src/sh/posix.txt" width="500px" height="980px"></object>

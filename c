@@ -10,21 +10,19 @@ fn tmp {
 }
 
 fn run {
-	rpaf=`{echo $REQUEST_URI}
-	lpaf=av$rpaf
-	ifs='/'
-	args = `{echo $rpaf}
+	req=`{echo $REQUEST_URI}
+	lpaf=av$req
+	rpafs='/'; wd='/'; ifs='/'
+	arg = `{echo $req}
 
 	if (test -d $lpaf) {
 		lpaf = $lpaf^'i'
 	}
 
-	rpafs='/'; conf_wd='/'
-
-	for (i in $args) {
-		conf_wd = $conf_wd^$i
-		rpafs = ($rpafs $conf_wd)
-		conf_wd = $conf_wd'/'
+	for (i in $arg) {
+		wd = $wd^$i
+		rpafs = ($rpafs $wd)
+		wd = $wd'/'
 	}
 
 	echo; tmp
