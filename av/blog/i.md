@@ -2,7 +2,6 @@
 Blog posts
 
 - [Agit Prop](#agit-prop)
-- [Amazon society](#amazon-society)
 - [Autism](#autism)
 - [Blind spot](#blind-spot)
 - [Chinese characters](#chinese-characters)
@@ -46,15 +45,13 @@ When you're agitated
 - Be blindsided of who the ''real'' culprits string-pullers are
 - Waste time and more importantly energy on not doing what in your heart of hearts is the solution
 
-## <a name=amazon-society>Amazon Society</a>
-
 Music stores, with listening booths, arts 'n crafts stores with  benches to paint. Doesn't amazon and online shopping have a hand in destroying those places of gathering
 
 ##  <a name='autism'>Autism</a>
 
-Being on the 'verge, brink, edge' are scenarios you'd be hardpressed to find a low functioning  Autist in.
+Being on the 'verge, brink, edge' are scenarios you'd be hardpressed to find a low functioning autist in.
 
-Autistic people, like every animal, are sensitive to stimuli, If they are exposed to too much stimuli they will try to exit the stressful environment or if  detained will thrash.
+Both autistic and non-autistic people are sensitive too stimuli, you could say where the 2 parties diverge is the threshold of acceptable stimuli. If autistic people are exposed to too much stimuli they will try to exit the stressful environment or if  detained will thrash.
 
 That is very normal.
 
