@@ -12,7 +12,19 @@ Table of Contents
 	- [Switch](#switch)
 	- [Arrays](#arrays)
 	- [Slices](#slices)
-
+	- [Maps](#maps)
+	- [Functions](#functions)
+	- [Multiple Return Values](#multiple-return-values)
+	- [Variadic Functions](#variadic-functions)
+	- [Closures](#closures)
+	- [Recursion](#recursion)
+	- [Range over built in types](#range-over-built-in-types)
+	- [Pointers](#pointers)
+	- [Strings and Runes](#strings-and-runes)
+	- [Structs](#structs)
+	- [Methods](#methods)
+	- [Interfaces](#interfaces)
+	- [Enums](#enums)
 <hr>
 
 - [Practice](#practice)
@@ -29,7 +41,7 @@ Taken from [gobyexample.com](//gobyexample.com/)
 
 ### <a name=values>Values</a>
 
-<object data=/src/go/values.txt></object>
+<object data=/src/go/values.txt width=200 height=360></object>
 
 ### <a name=constants>Constants</a>
 

@@ -77,9 +77,11 @@ sed 's/\.md//g' filename
 
 # Imagemagick
 
-<img src=".pix/imagemagick_wizard.avif" style="width:100px;">
+todo
 
-## Remove Whitespace
+`convert -background none -fill black -pointsize 48 label:"c@avsbq.org·" -virtual-pixel none -distort Arc 360 avsemail.pn`
+
+ ## Remove Whitespace
 
 	convert -trim
 
@@ -145,33 +147,31 @@ First,
 
 Add this line to
 
-	/mnt/ssh/sshd_config
+`/mnt/ssh/sshd_config`
 
-<object data=txt/sshfs1.txt width=530 height=60></object>
+<object data=/src/sshfs1.txt width=530 height=60></object>
 
-<object data=txt/sshfs_error_log.txt width=870 height=320></object>
+<object data=/src/sshfs-error-log.txt width=870 height=320></object>
 
 Remove offending key
 
-	ssh-keygen -R avsbq.org
+`ssh-keygen -R avsbq.org`
 
 reattemppt connection
 
 If it says 'remote host has disconnected'
 
-on OpenBSD it's
-
-	rcctl restart sshd
+on OpenBSD it's `rcctl restart sshd`
 
 ## <a name=tmux>tmux</a>
 
 ## <a name=acme>acme</a>
 
 <details><summary>Resources used:</summary>
-[evbogdanox](https://github.com/evbogdanov/acme/blob/master/README.md)
+[evbogdanox](//github.com/evbogdanov/acme/blob/master/README.md)
 </details>
 
-<img src=".pix/acme_chord.avif" style="width:410px; height: auto;"> Image by Tom Lieber
+<img src="/pix/acme-mouse-chords.png" style="width:410px; height: auto;"> Image by Tom Lieber
 
 `Edit =`
 
@@ -187,9 +187,6 @@ Go to file beginning
 
 `:$` 
 
-Go to file end
-
-:1,$ or :, or Edit 1,$ or Edit , select all lines
 
 :1,5 or Edit 1,5 select lines 1..5
 Edit , d clear window
@@ -207,65 +204,17 @@ ctrl-e move cursor to end of the line
 ctrl-i tab
 ctrl-j enter
 ctrl-f filepath autocompletion
-fn-*left arrow* go home (macOS)
-fn-*right arrow* go end (macOS)
-search with right click:
-:+/foobar, :/foobar and just foobar search forward
-:-/foobar search backwards
 press esc to select the last typed text
 press esc again to delete any selected text
-Font switch between fonts
-:/^hel regexp match: lines starting with 'hel'
-:/lo\n/ regexp match: lines ending with 'lo'
-:/^b/,/^e/ regexp match: lines between starting with 'b' and starting with 'e'
-Dump write the state of acme to the file
-Load restore from the dump
-Edit , > python pipe window body through python interpreter
-three-finger tap emulates middle click (macOS)
-Sam commands
-Edit +/hello search 'hello' forward
-Edit -/hello search 'hello' backward
-Edit , > wc -l count lines in file
-Edit , | sort sort lines
-Edit 3,5p print lines 3..5 in new window
-Edit 3,5 | upper lines 3..5 upper cased
-Edit 3,5 s/HE/he/g replace on 3..5 lines only
-Edit 2 d delete 2nd line
-Edit 2 c/new change 2nd line
-Edit 2 a/new append text after 2nd line
-Edit 2 i/new insert text before 2nd line
-Edit 2 < date replace 2nd line with the output of date
-Edit ,x/^TODAY$/ < date replace matching lines with the output of date
-Edit ,x/Plan9/ |tr a-z A-Z replace all instances of Plan9 with upper case
-Edit 3,5x/^/ a/	/ indent lines 3..5 with 1 tab
-You can do amazing things with Sam commands:
-
-Edit ,x/Acme/ {
-  i/I love 
-  c/Sam
-  a/ editor!
-}
-Cut / Copy selection to a file
-select some text
-cut: | sed '' > file.txt
-copy: > sed '' > file.txt
-pipe selection to a file: > awk '{ print(toupper($1)) }' | sort | nl > file.txt
-Games!
-Tic-tac-toe
-Mini sea battle
-Other Plan9 goodies
-win start shell in a new window
-page FILE view graphics files
-web URL open url in your browser
 
 ## <a name=vim>vim</a>
-# Vim tutorial
 
-<img src="/.pix/vim_cigarretes.avif" style="width:550px; height: auto;">
+### <a name=Movement
 
-This is my .vimrc
+<img src="/pix/vim-movement-table.png" style="width:450px; height: auto;">
 
-<object data=".txt/vimrc.txt" width="255" height="72"></object>
+Vim tutorial
+
 
 ## What you MUST do
 
@@ -298,16 +247,10 @@ even 'ZZ' is no good
 - `gu` and `gU` 
 	- uncapitalize and capitalize words/lines
 - `~` and `g~`
-	- switch capitalization of a letter
 - `gf` 
 	- open highlighted text as file
-- `gv`
-	- reselect previous selected text
 - `gJ`
 	- conjoining lines without leaving spaces
-- `g&` 
-	- re-run substitute command for all lines
-
 - `<`
 	- remove indent, first highlight
 
@@ -318,3 +261,9 @@ Vim includes a man page viewer, :Man , in its runtime files. Even better, you ca
 
 
 set mouse=a
+
+<img src="/pix/vim-cigarretes.avif" style="width:250px; height: auto;">
+
+### <a name=vim-personal-config>Personal config</a>
+
+<object data=/src/conf/vimrc.txt></object>

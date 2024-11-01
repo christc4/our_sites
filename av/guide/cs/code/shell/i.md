@@ -1,6 +1,4 @@
-<style>#toc{position:fixed;top:20px;right:20px;max-width:200px;padding:10px;overflow-y:auto;max-height:80vh;z-index:1000}</style>
-
-It's called a shell as it hides the kernel...
+# `#!/bin/shhhhhh it's a library!`
 
 <div id="toc">
 Table of Contents
@@ -52,3 +50,7 @@ Automatically cd into typed directory
 Basic prompt
 
 `PROMPT='%~ | '`
+
+<hr>
+
+It's called a shell as it hides the kernel...
