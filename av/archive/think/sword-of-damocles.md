@@ -1,6 +1,6 @@
 # Sword of Damocles
 
-<img src=".pix/sword_of_damocles.avif " style="width:410px; height: auto;">
+<img src="/pix/sword-of-damocles.avif " style="width:410px; height: auto;">
 
 Cicero on Damocles
 The Roman politician and philosopher Cicero tells the famous story about the tyrant Dionysius II of Syracuse and his courtier Damocles, which he had read in the History of Timaeus of Tauromenium. The anecdote is often told as a reminder that for a powerful man, there's always danger, although the real point of the story is that happiness is fragile.

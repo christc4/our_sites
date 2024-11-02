@@ -13,6 +13,7 @@ Table of Contents
 - [Laws](#laws)
 	- [Fitts](#fitts)
 	- [Wirths](#wirths)
+- [Rube Goldberg Machine](#rube-goldberg-machine)
 - [Ship of Theseus](#ship-of-theseus)
 </div>
 
@@ -84,11 +85,11 @@ In brief, it predicts the time required to quickly move to a target area is the 
 
 Analogy from [mbreen](https://mbreen.com/fitts-apple/),
 
-<img src="pix/a1.avif" style="width: 450px; height: auto;">
+<img src="/pix/fitts-law-macos1.avif" style="width: 450px; height: auto;">
 
 In MacOS, if your active window is near the bottom of the screen, having the menu bar at the top edge is an extremely long trek. Except, this trek is to do an extremely simple computational task.
 
-<img src="pix/a2.avif" style="width: 450px; height: auto;">
+<img src="/pix/fitts-law-macos2.avif" style="width: 450px; height: auto;">
 
 Also consider the return journey you have to make from menu bar to active window!
 
@@ -112,7 +113,14 @@ Software is getting slower more rapidly than hardware is becoming faster
 
 [A Plea for Lean Software](https://www.computer.org/csdl/magazine/co/1995/02/r2064/13rRUwInv7E)
 
+### <a name=rube-goldberg-machine>Rube Goldberg Machine</a>
+
+<img src="/pix/rube-goldberg.avif" style="width: 350px; height: auto;">
+
+A contraption designed to perform a simple task in the most overly complex way
+
 ### <a name=ship-of-theseus>Ship of Theseus</a>
+
  
 The Ship of Theseus was a famous vessel 
 
