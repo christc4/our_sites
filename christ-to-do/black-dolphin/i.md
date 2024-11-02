@@ -1,11 +1,12 @@
 # Black dolphin
 
+<div id=toc>
+
+Table of Contents:
+
+- 
 > _Someone asked me if I had plans for the fall, it took me a moment to realise they meant &apos;Autumn&apos; not the collapse of civilization_
 
-Table of contents:
-
-- Food
-- Fuel
 
 ## Food
 
