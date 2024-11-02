@@ -1,6 +1,8 @@
 <div id=toc>
 Table of Contents
 
+- [Bias](#bias)
+	- [Survivorship Bias](#survivorship-bias)
 - [Effects](#effects)
 	- [Halo](#halo)
 	- [Lindy](#lindy)
@@ -11,8 +13,23 @@ Table of Contents
 - [Laws](#laws)
 	- [Fitts](#fitts)
 	- [Wirths](#wirths)
-- [Quotes](#quotes)
+- [Ship of Theseus](#ship-of-theseus)
 </div>
+
+## <a name=bias>Bias</a>
+
+### <a name=survivorship-bias>Survivorship Bias</a>
+
+<img src="/pix/survivorship-bias.avif" style="width: 350px; height: auto;">
+
+Image source, [sketchplanations](https://sketchplanations.com/survivorship-bias-silent-evidence)
+
+By focusing solely on 'survivors' or 'success stories' while overlooking those that didn't make it.
+
+This bias leads to skewed conclusion and misguided decision-making, as it fails to accountnn for the hidden dangers lurking beneath the surface.
+
+To do, finish taking notes from 
+https://fastercapital.com/topics/understanding-survivorship-bias.html
 
 ## <a name=effects>Effects</a>
 
@@ -94,3 +111,23 @@ https://bootcamp.uxdesign.cc/ux-design-principle-001-fitts-law-ee08dde285c5
 Software is getting slower more rapidly than hardware is becoming faster
 
 [A Plea for Lean Software](https://www.computer.org/csdl/magazine/co/1995/02/r2064/13rRUwInv7E)
+
+### <a name=ship-of-theseus>Ship of Theseus</a>
+ 
+The Ship of Theseus was a famous vessel 
+
+> The ship wherein Theseus and the youth of Athens returned had thirty oars, and was preserved by the Athenians down even to the time of Demetrus Phalereus, for they took away the old planks as they decayed, putting in new and stronger timber in their place, insomuch that this ship became a standing example among the philosophers, for the logical question as to things that grow; one side holding that the ship remained the same, and the other contending it was not the same. 
+
+> (Plutarch 1880, 7-8) 
+
+In his De Corpore, Thomas Hobbes followed up an ancient suggestion that the ship's original planks might have been hoarded by a collector on land and reassembled, once every part had been replaced. Hobbes offered the reassembled ship as the true original. But he may have had his tongue in his cheek about the ambiguous use of language in truth claims. It is the true original, qua material, but not qua a functioning ship. 
+
+In our case of the Ship of Theseus, we actually create two ships over time. We can look at this as creating two sets of coinciding objects. In each case, we focus on the persistent aspect and ignore the changes.
+
+One persists as a functioning ship, ignoring the changes in matter (the planks). The other persists over time with respect to its matter. They both can claim to have preserved their identity over time with the original ship, but in different respects, the first qua functioning ship, the second qua material.
+
+But what if both ships are seaworthy?
+
+Sources used:
+
+- [metaphysicist.com](https://metaphysicist.com/puzzles/ship_theseus/)
