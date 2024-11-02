@@ -28,6 +28,7 @@ Blog Posts
 - [Photo Banning](#photo-banning)
 - [Rabbit Starvation](#rabbit-starvation)
 - [Raw Meat](#raw-meat)
+- [Tankards and Lids](#tankards-and-lids)
 - [Unfurling of a Clothes Moth](#unfurling-moth)
 - [x61s DOWN!](#x61s-down)
 - [Where's Christ?](#wheres-christ)
@@ -110,7 +111,7 @@ Didn't read the other posts, and I don't know if this counts as medicating or no
 My grandma would rub a little whiskey on our gums when we were teething--not a lot just a little rub to the area the tooth was coming in on. From what I hear, that worked great.
 </details>
 
-## <a name=architecture-psychology</a>
+## <a name=architecture-psychology>Architecture psychology</a>
 
 Let us take two people.
 
@@ -619,6 +620,10 @@ so many windows or mac os users, could have used that anger to switch to linux, 
 
 the steak alex ate in madagascar llooked amazing, i had never eaten steak before same for red streaky  bacon, with all the fat interlaced inbetween
 lord of the rings raw rabbit scene
+
+## <a name=tankards-and-lids>Tankards and Lids</a>
+
+But lids did not start appearing on German steins until the Bubonic plague swept through Europe (in the 1300s), where insects appeared in their millions and attracted to the sweet smelling beer. The government decreed that all drinking establishments had to cover their stoneware with lids to prevent spread of disease.
 
 ## <a name=unfurling-moth>Unfurling of a Clothes Moth</a>
 
