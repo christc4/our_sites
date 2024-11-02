@@ -1,5 +1,7 @@
-<div id="toc">
+<div id=toc>
 Blog posts
+
+<img src="/pix/cov.avif" style="width:150px;">
 
 - [Agit Prop](#agit-prop)
 - [Autism](#autism)
@@ -10,19 +12,17 @@ Blog posts
 - [On Thrifting](#on-thrifting)
 </div>
 
-`You are a misplaced jewel, A treasure chest lost to sea,  I grab at you with my pincer claw, But within, there is no bead, No pearl, or jewel to catch a hefty fee, But a pile of sand turns me a fool, So I grovel back to my hovel, But herein, there is no feed`
-
-<img src="/pix/cov.avif" style="width:150px; height: auto;">
-
 ## Summary
 
 In Eden, where there'd be no lifestyle(s) or worldview(s), no hidden wisdom to pass on every moment would be perfect. So I leave my kin only the essentials as he awakes in this dark forest. These words are mine alone, open to challenge by friends and family.
 
 <!-- under the auspices of christ-to-do stagnant water vs running water grandwater clock blog about jpeg xl, chief complaint lobied about webp is when users download it and cant open it... idiot normies,  blog jpeg is dying by 2kphillip https://youtu.be/iuGmG3lrfBM https://youtu.be/dqwbrX8uhEE https://youtu.be/8NmdUcmLFkw -->
 
+<hr>
+
 ##  <a name='agit-prop'>Agit Prop</a>
 
-## Agitation Propaganda
+Agitation Propaganda
 
 For every solutionist worth their salt there are a dime-a-dozen if not more agitation person(s), they rile up their audiences leaving them in a frenzied state of agitation over inconsequential and often faraway events.
 
