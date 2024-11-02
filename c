@@ -37,7 +37,6 @@ fn sbar {
 		lNF = 2
 		print "<style>img{width:150px}nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:20 26%}article{flex:1}nav{min-width:12em}nav ul{border-bottom:1px solid;}nav ul{list-style: none}#tagcloud{display: flex;flex-wrap: wrap; gap: 5px;font-size: .7em;}#toc{position:fixed;right:140px;padding:10px;width:222px;max-height:80vh;overflow-y:auto;max-height:80vh;z-index:1000}</style><meta charset=utf-8><nav><ul>"
 	}
-
 	{
 		sub("/$", "", $0)
 		p(NF, lNF, "<li><ul>"); p(lNF, NF, "</ul>")

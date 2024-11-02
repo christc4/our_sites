@@ -1,7 +1,7 @@
 
 ## <a name=quotes>Quotes</a>
 
-<img src="pix/liberty.avif" style="width:300px; height: auto;">
+<img src="/pix/statue-of-liberty-scales-of-justice.avif" style="width:200px; height: auto;">
 
 Names intentionally redacted
 

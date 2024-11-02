@@ -1,9 +1,10 @@
 # The Stylites
 
-## Table of Contents
+<div id=toc>
 
 - [Dégénération](#degeneration)
 - [Your Captain Speaking](#your-captain-speaking)
+</div>
 
 ###  <a name='degeneration'>Dégénération</a>
 
