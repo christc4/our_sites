@@ -1,5 +1,5 @@
 # Keyboard
 
-<object data=src/letter_frequency.txt width=520 height=40></object>
+`LanguageData[Entity["Language", #], "LetterFrequency"] & /@ {"English", "Spanish"}`
 
-<object data="src/english_letter_frequency.txt" width="500" height="320"></object>
+<object data="/src/wl/english-letter-frequency.txt" width="500" height="320"></object>

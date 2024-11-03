@@ -1,1 +1,0 @@
-LanguageData[Entity["Language", #], "LetterFrequency"] & /@ {"English", "Spanish"}
