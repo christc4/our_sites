@@ -31,7 +31,7 @@ fn sbar {
 	function p(x, y, s) { for (i=0; i<x-y; i++) printf s }
 	BEGIN {
 		lNF = 2
-		print "<style>nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:20 24%}article{flex:1}nav{min-width:12em}nav ul{border-bottom:1px solid;}nav ul{list-style: none}#toc{position:fixed;right:70px;width:222px;max-height:80vh;overflow-y:auto;border-left:1px solid;}</style><meta charset=utf-8><nav><ul>"
+		print "<style>img{width:150px;}nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:20 24%}article{flex:1}nav{min-width:12em}nav ul{border-bottom:1px solid;}nav ul{list-style: none}#toc{position:fixed;right:70px;width:222px;max-height:80vh;overflow-y:auto;border-left:1px solid;}</style><meta charset=utf-8><nav><ul>"
 	}
 	{
 		sub("/$", "", $0)

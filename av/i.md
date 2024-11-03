@@ -16,6 +16,6 @@
 
 <hr>
 
-Powered by [Cork](/src/cork.html) | Edited with [bq](/src/bq.html) | Made with [love](/archive/misc/writings/poems/#reading-gaol)
+Powered by [Cork](/src/cork.html) | Edited with [bq](/src/bq.html) | Made with [love](/archive/misc/writings/poems#reading-gaol)
 
  <img src="/pix/glenda.avif" style="width:45px;"> <img src="/pix/puffy1.avif" style="width:45px;"> <img src="/pix/gopher.avif" style="width:25px;">

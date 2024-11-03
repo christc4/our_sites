@@ -1,4 +1,10 @@
-# Poetry
+<div id=toc>
+Table of Contents
+
+- [Oscar Wilde](#oscar-wilde)
+	- [The Ballad of Reading  Gaol](#reading-gaol)
+
+</div>
 
 ## <a name=oscar-wilde>Oscar Wilde</a>
 
