@@ -2,7 +2,7 @@
 
 ## <a name=oscar-wilde>Oscar Wilde</a>
 
-### <a name=gaol>Ballad of Reading Gaol</a>
+### <a name=reading-gaol>Ballad of Reading Gaol</a>
 
 He did not wear his scarlet coat,
 For blood and wine are red,

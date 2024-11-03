@@ -1,2 +1,6 @@
-![image](change_my_mind.webp)
-![image](depart_from_me.webp)
+[Genesis](/src/dox/genesis.txt)
+[Exodus](/src/dox/exodus.txt)
+[Leviticus](/src/dox/leviticus.txt)
+[Numbers](/src/dox/numbers.txt)
+[Deuteronomy](/src/dox/deuteronomy.txt)
+

@@ -1,4 +1,4 @@
-<img src="gelert.avif">
+<img src=/pix/gelert-illustration.avif>
 
 <small>From Wild Wales by George Borrow</small>
 
