@@ -7,7 +7,6 @@ https://youtu.be/nTCHapo8QFM?si=_pnDGvz4vXux9xz5 - glasses fall down
 
 NASE CODING PRACTICE https://www.youtube.com/watch?v=GWYhtksrmhE - make a article on this in comp/practices
 
-invetigage why thinkpad randomly shuts of
 https://github.com/fhs/acme-lsp
 make a blog/video post on why acme doesnt need line numbers
 xahlee shorthand system
@@ -16,9 +15,7 @@ make a bsd shell script that will push every single one of my repos
 and set up multiple gits
 
 
-practice smooth talking, learn from reddit@
 cv, xerox park
-towel wrist pad keyboard
 
 taps into your psychology determinant
 john backus - put him in people made fortran
@@ -286,7 +283,6 @@ and so consumption falls - and so
 make a short article on heaven, why it isn't a forced naturalistic conclusion but why forking and porting leads to nothing but heaven
 imagine how better the world would be without proprietary software only FOSS, sort of like saying imageine how better the world would be if everyone beameo orthodox, insert i want you to become orthdos meme
 https://tux.pizza/services/ make an article on frontends and why they are amazing, Frontends the new frontier?
-learn Uk economics history for exams
 
 find an efficient way to do html tagging
 
@@ -297,8 +293,6 @@ investigate all thinkpad buttons and make macros for them
 make a tailoring tutorial for collar nd pant buttons
 add epik and vultr referral links to your site
 
-https://pandora1000.github.io/blogs/template.html - really incorporate this css
-buy mifim a jell pens joblot
 in tutorials, show how to make a website and artix linux install and arch also add wesleys tutorials arch repo
 make figcaption a smaller font
 manage trash directory in debian
@@ -322,14 +316,12 @@ make an article on dragon-drop and webbrowser, and how surf plays vidoes outside
 email luke smith about .shtml and your nginx config to enable it also in hte luke smith faq video, 11:25 ask him about this
 you dont need to sand of all your corners
 ai does parlor tricks
-using the unix command , nl , for code snippets to auto number lines
-update interviews with all the correct links
 create dithering for website
 Same with printed ooks, I think only coveted works/relgioius texts should make its way to the printer .ps or .djvu is sufficient.
 https://psychocod3r.wordpress.com/2021/03/12/exploring-plan-9-from-bell-labs/
 https://ftrv.se/_about
 https://www.multicians.org/simulator.html - possibly best cs sto emulate, eliminates side bar and drop down menu is dope
-nomenclaturey own immaturity caused so much unpleasantness for others
+nomenclaturey own =y caused so much unpleasantness for others
 ed works on a teletype and modern terminal the same cannot be said for vim
 
 	https://mostlymaths.net/2013/04/just-as-mario-using-plan9-plumber.html/
@@ -363,19 +355,8 @@ who is johannes pferferkorn -based jew??
 https://mauri870.github.io/blog/posts/plan9-on-raspberry-pi-3/
 this is gonna be a diving board for showing you how
 i am making the world a better place by ceasing the use of .pdf - random netizen
-putting lipstick on a pig
-Literally today in the office: colleague walks by, stares at my screen while I'm browsing the xlib manual, utters "that looks dangerous" and walks off. The end is nigh, brethren.
-20
-@nice_sprite5285
-@nice_sprite5285
-2 years ago
-What could he have even meant, what???
-1
-@stansen7862
-@stansen7862
-2 years ago
- @nice_sprite5285  High contrasts, information density and lack of corporate art scares the soydev.
 
+putting lipstick on a pig
 
 
 I’ve been meaning to write about Paganism recently. I will frame it as a response to an email I received within the past day or so:
@@ -430,6 +411,7 @@ there was a word like theresince - i forogt it
 maligned
 use the word "in effect" in your essay
 jklowden on April 11, 2016 | prev [–]
+
 I wrote to Kernighan a few years ago, when "D is for Digital" came out, to ask him, in effect, if troff had been made obsolete by TeX. At the time I had begun using it, and wondered if it was worth investing my time to learn.
 
 He answered that he still preferred to use troff, having tried alternatives. Since then I have used groff exclusively for writing documentation and papers. It never runs out of gas, and always produces attractive output. It offers a complete suite -- math, tables, pictures, graphs -- all in one package. It's fast, adaptable, and easy to learn. It has the highest ratio of text to markup of any typesetting system, including TeX and Markdown. It is the single most overlooked and under appreciated project on the planet.

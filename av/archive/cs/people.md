@@ -3,7 +3,7 @@
 _We're standing on the shoulders of giants_
 
 <div id=toc>
-<img src="pix/face.avif" style="width:50px;"> 
+<img src="/pix/plan9-faces.avif" style="width:50px;"> 
 
 - [Al Aho](#al-aho)
 	- [1989-09-15](#1989-09-15)

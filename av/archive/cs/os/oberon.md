@@ -8,43 +8,41 @@ https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf
 
 ## Gallery
 
-<details><summary>Expand to see photos</summary>
 Photos taken from Project Oberon - the design of an operating system and compiler
 N. Wirth, J. Gutknecht
 Published 2 November 1992
 
-<img src=pix/oberon1.avif>
+<img src=/pix/oberon1.avif>
 
 the Oberon gadgets gui desktop
 
-<img src=pix/oberon2.avif>
+<img src=/pix/oberon2.avif>
 
 a viewer class desktop organizing overlapping frames
 
-<img src=pix/oberon3.avif>
+<img src=/pix/oberon3.avif>
 
 the layout of a standard cedar screen showing command row and icon row
 
-<img src=pix/oberon4.avif>
+<img src=/pix/oberon4.avif>
 
 screen layout produced by unconstrained tiling
 
-<img src=pix/oberon5.avif>
+<img src=/pix/oberon5.avif>
 
 standard oberon configuration featuring two logically adjacent displays of equal size and structure
 
-<img src=pix/oberon6.avif>
+<img src=/pix/oberon6.avif>
 
 simulated desktop, showing overlapping viewers. (b) partial overlappings in the desktop model
 
-<img src=pix/oberon7.avif>
+<img src=/pix/oberon7.avif>
 
 typical oberon display configuration consisting of seven viewers
-</details>
 
 ## Minds behind
 
-<img src=wirth.avif>
+<img src=/pix/niklaus-wirth.avif>
 
 [Niklaus Wirth](https://people.inf.ethz.ch/wirth/) authored the Oberon language, together with Jürg Gutknecht, he developed the Oberos OS.
 

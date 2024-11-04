@@ -239,4 +239,4 @@ One economist says, "Hey look, there's a $100 bill on the sidewalk!". The other 
 
 Financial analysts spend 6 months predicting the economy and 6 years studying why they were wrong
 
-
+Literally today in the office: colleague walks by, stares at my screen while I'm browsing the xlib manual, utters "that looks dangerous" and walks off. The end is nigh, brethren.  High contrasts, information density and lack of corporate art scares the soydev.
